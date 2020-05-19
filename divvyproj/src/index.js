@@ -7,7 +7,6 @@ import Drawer from "@material-ui/core/Drawer";
 import Typography from "@material-ui/core/Typography";
 import Divider from "@material-ui/core/Divider";
 import { Container } from '@material-ui/core';
-import './index.css'
 import { positions } from '@material-ui/system';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
@@ -171,7 +170,7 @@ render() {
     
   >
 
-      <Bar class = "graph"
+      <Bar 
        data={this.state}
         options={{
           maintainAspectRatio: false ,
