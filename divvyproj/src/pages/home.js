@@ -3,7 +3,7 @@ import React from 'react';
 import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom'
 import Box from '@material-ui/core/Box';
 
-export default class Home extends React.Component{
+class Home extends React.Component{
     constructor(props) {
       super(props);
       this.state = {
@@ -11,9 +11,10 @@ export default class Home extends React.Component{
       };
     }
     render(){
+      
       return(
         <React.Fragment>
-          <Box  
+          {/* <Box  
             bgcolor="gray"
             color="gray"
             p={2}
@@ -22,12 +23,14 @@ export default class Home extends React.Component{
             right="5%"
             height = {60}
             width = {60}>
-          <Link to ={"/graph"}  color="inherit">
-            this is to the graph page
-          </Link>
-          </Box>
-          </React.Fragment>
-          );
-      }
+            <Link to ={"/graph"}  color="inherit">
+              this is to the graph page
+            </Link>
+          </Box> */}
+        </React.Fragment>
+      );
+    }
   }
+
+  export default Home;
   

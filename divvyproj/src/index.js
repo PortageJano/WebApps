@@ -1,24 +1,17 @@
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom'
-
-// import AppBar from "@material-ui/core/AppBar";
-// import Drawer from "@material-ui/core/Drawer";
-// import Typography from "@material-ui/core/Typography";
-// import Divider from "@material-ui/core/Divider";
-// import { Container } from '@material-ui/core';
-// import { positions } from '@material-ui/system';
-// import Grid from '@material-ui/core/Grid';
-// import Paper from '@material-ui/core/Paper';
+import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 
 import Home from './pages/home.js';
 import Graph from './pages/graph.js';
 import Map from './pages/map.js';
+import NavBar from './nav.js';
 
 class App extends React.Component {
   render() {
     return (
       <Router>
+        <NavBar />
         <div>
           <Switch>
             <Route exact path="/">
