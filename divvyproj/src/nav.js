@@ -28,6 +28,12 @@ const useStyles = makeStyles((theme) => ({
   title: {
     flexGrow: 1,
   },
+  list: {
+    width: 250,
+  },
+  fullList: {
+    width: 'auto',
+  },
 }));
 
 export default function NavBar() {

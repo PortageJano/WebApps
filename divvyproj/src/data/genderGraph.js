@@ -24,6 +24,7 @@ export default class GenderGraph extends React.Component {
       page: "m",
     });
   }
+
   componentDidMount() {
     fetch('https://data.cityofchicago.org/resource/fg6s-gzvg.json')
       .then(res => res.json())

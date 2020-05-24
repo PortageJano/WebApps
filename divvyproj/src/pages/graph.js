@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 
-import GenderGraph from '../data/genderGraph.js'
-import SubmissionBox from '../components/submit.js'
+import GenderGraph from '../data/genderGraph.js';
+import SubmissionBox from '../components/submit.js';
 
 export default class Graph extends React.Component {
   constructor(props) {
@@ -40,7 +40,7 @@ export default class Graph extends React.Component {
     return (
       <React.Fragment>
         <GenderGraph props={this.state}/>
-        <SubmissionBox props={this.state}/>
+        <SubmissionBox props={this.state}/>   
       </React.Fragment>
     );
   }

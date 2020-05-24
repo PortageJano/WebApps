@@ -7,7 +7,7 @@ export default function SubmissionBox(props) {
   return(
     <React.Fragment>
       <Box
-        bgcolor="gray"
+        bgcolor="none"
         color="white"
         p={2}
         position="absolute"
@@ -17,8 +17,8 @@ export default function SubmissionBox(props) {
         width={200}
       >
         <Box
-          bgcolor="grey"
-          color="white"
+          bgcolor="none"
+          color="black"
           p={2}
           position="absolute"
           top={100}
