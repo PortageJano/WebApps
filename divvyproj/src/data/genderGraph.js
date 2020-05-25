@@ -3,7 +3,7 @@ import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-ro
 import { Bar } from 'react-chartjs-2';
 import Box from '@material-ui/core/Box';
 
-export default class GenderGraph extends React.Component {
+export default class GenderDistGraph extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
