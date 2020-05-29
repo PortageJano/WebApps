@@ -88,7 +88,7 @@ export default class GenderDistGraph extends React.Component {
             maintainAspectRatio: false,
             title: {
               display: true,
-              text: "Gender from divy bikes",
+              text: "Bikes rented by gender",
               fontSize: 20
             },
             legend: {
@@ -99,7 +99,7 @@ export default class GenderDistGraph extends React.Component {
               yAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Bikes rented by gender'
+                  labelString: 'Bikes rented'
                 },
                 type: 'linear',
                 min: 1,

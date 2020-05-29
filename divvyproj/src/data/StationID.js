@@ -96,7 +96,7 @@ export default class SubGraph extends React.Component {
         top={70}
         left="5%"
         height={500}
-        width={1100}
+        width={700}
       >
         <Bar
           data={this.state}
@@ -104,7 +104,7 @@ export default class SubGraph extends React.Component {
             maintainAspectRatio: false,
             title: {
               display: true,
-              text: "Use of Stations",
+              text: "Total amount of stations used by Station ID",
               fontSize: 20
             },
             legend: {
@@ -115,7 +115,7 @@ export default class SubGraph extends React.Component {
               yAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Stations Used'
+                  labelString: 'Number of times a station was used'
                 },
                 type: 'linear',
                 min: 1,
@@ -130,7 +130,7 @@ export default class SubGraph extends React.Component {
               xAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Stations'
+                  labelString: 'Stations ID\'s'
                 }
               }]
             }

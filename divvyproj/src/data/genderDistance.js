@@ -101,7 +101,7 @@ export default class GenderGraph extends React.Component {
             maintainAspectRatio: false,
             title: {
               display: true,
-              text: "Gender average trip duration",
+              text: "Average trip duration by gender",
               fontSize: 20
             },
             legend: {
@@ -112,7 +112,7 @@ export default class GenderGraph extends React.Component {
               yAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Average length by gender'
+                  labelString: 'Average travel duration'
                 },
                 type: 'linear',
                 min: 1,

@@ -43,9 +43,7 @@ export default class Graph extends React.Component {
     }
     return (
       <React.Fragment>
-      <Stations props={this.state}></Stations>
-        <SubmissionBox props={this.state}/> 
-         
+      <GenderGraph props={this.state}></GenderGraph>  
       </React.Fragment>
     );
   }
