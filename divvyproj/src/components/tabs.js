@@ -6,6 +6,11 @@ import Tabs from '@material-ui/core/Tabs';
 import Tab from '@material-ui/core/Tab';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
+import GenderGraph from '../data/genderGraph.js';
+import SubGraph from '../data/subscribersGraph.js';
+import GenderDistGraph from '../data/genderDistance.js';
+import StationID from '../data/StationID.js';
+import BikeID from '../data/bikeId.js';
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
@@ -57,21 +62,29 @@ export default function SimpleTabs(d1, d2, d3) {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static">
-        <Tabs value={value} onChange={handleChange} aria-label="simple tabs example">
-          <Tab label="Item One" {...a11yProps(0)} />
-          <Tab label="Item Two" {...a11yProps(1)} />
-          <Tab label="Item Three" {...a11yProps(2)} />
+      <AppBar position="absolute" style={{zIndex: 800, top: 60}}>
+        <Tabs value={value} onChange={handleChange} centered aria-label="tab between graphs">
+          <Tab label="Gender Graph" {...a11yProps(0)} />
+          <Tab label="Gender Distance Graph" {...a11yProps(1)} />
+          <Tab label="Subscribers Graph" {...a11yProps(2)} />
+          <Tab label="Station ID Graph" {...a11yProps(3)} />
+          <Tab label="Bike ID Graph" {...a11yProps(4)} />
         </Tabs>
       </AppBar>
       <TabPanel value={value} index={0}>
-        d1
+        <GenderGraph></GenderGraph>
       </TabPanel>
       <TabPanel value={value} index={1}>
-        d2
+        <GenderDistGraph></GenderDistGraph>
       </TabPanel>
       <TabPanel value={value} index={2}>
-        d3
+      <SubGraph></SubGraph>
+      </TabPanel>
+      <TabPanel value={value} index={3}>
+      <StationID></StationID>
+      </TabPanel>
+      <TabPanel value={value} index={4}>
+      <BikeID></BikeID>
       </TabPanel>
     </div>
   );

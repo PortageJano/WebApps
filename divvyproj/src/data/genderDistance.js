@@ -2,6 +2,7 @@ import React from 'react';
 import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 import { Bar } from 'react-chartjs-2';
 import Box from '@material-ui/core/Box';
+import zIndex from '@material-ui/core/styles/zIndex';
 
 export default class GenderGraph extends React.Component {
   constructor(props) {
@@ -90,18 +91,20 @@ export default class GenderGraph extends React.Component {
         color="white"
         p={2}
         position="absolute"
-        top={70}
+        top={200}
         left="5%"
         height={300}
         width={600}
+        style={{zIndex: -400}}
       >
         <Bar
+          style={{zIndex: -400}}
           data={this.state}
           options={{
             maintainAspectRatio: false,
             title: {
               display: true,
-              text: "Gender average trip duration",
+              text: "Average trip duration by gender",
               fontSize: 20
             },
             legend: {
@@ -112,7 +115,7 @@ export default class GenderGraph extends React.Component {
               yAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Average length by gender'
+                  labelString: 'Average travel duration'
                 },
                 type: 'linear',
                 min: 1,

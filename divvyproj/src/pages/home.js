@@ -13,8 +13,11 @@ class Home extends React.Component{
     render(){
       
       return(
-        <React.Fragment>
-          <p>
+        <React.Fragment >
+          <br></br>
+          <br></br>
+          <br></br>
+          <p style = {{top: 100}}>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
             ut labore et dolore magna aliqua. Mattis pellentesque id nibh tortor id aliquet lectus. 
             Lectus nulla at volutpat diam ut venenatis tellus. Mi ipsum faucibus vitae aliquet nec 
@@ -66,6 +69,7 @@ class Home extends React.Component{
             ipsum. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Morbi 
             tristique senectus et netus.
           </p>
+      
         </React.Fragment>
       );
     }

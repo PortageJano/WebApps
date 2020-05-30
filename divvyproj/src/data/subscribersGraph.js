@@ -83,7 +83,7 @@ export default class SubGraph extends React.Component {
         color="white"
         p={2}
         position="absolute"
-        top={70}
+        top={200}
         left="5%"
         height={300}
         width={600}
@@ -105,7 +105,7 @@ export default class SubGraph extends React.Component {
               yAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Total of Subscribers and non Subscribers'
+                  labelString: 'Number of users'
                 },
                 type: 'linear',
                 min: 1,
@@ -120,7 +120,7 @@ export default class SubGraph extends React.Component {
               xAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Genders'
+                  labelString: 'Customer Type'
                 }
               }]
             }

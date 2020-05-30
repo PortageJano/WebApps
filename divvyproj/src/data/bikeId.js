@@ -82,10 +82,10 @@ export default class SubGraph extends React.Component {
         color="white"
         p={2}
         position="absolute"
-        top={70}
+        top={200}
         left="5%"
         height={500}
-        width={1100}
+        width={700}
       >
         <Bar
           data={this.state}
@@ -93,7 +93,7 @@ export default class SubGraph extends React.Component {
             maintainAspectRatio: false,
             title: {
               display: true,
-              text: "bike id's",
+              text: "Number of riders based off bike id",
               fontSize: 20
             },
             legend: {
@@ -104,7 +104,7 @@ export default class SubGraph extends React.Component {
               yAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Total of Subscribers and non Subscribers'
+                  labelString: 'Total number of riders'
                 },
                 type: 'linear',
                 min: 1,
@@ -119,7 +119,7 @@ export default class SubGraph extends React.Component {
               xAxes: [{
                 scaleLabel: {
                   display: true,
-                  labelString: 'Genders'
+                  labelString: 'Bike ID\'s'
                 }
               }]
             }
