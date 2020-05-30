@@ -9,6 +9,8 @@ import Box from '@material-ui/core/Box';
 import GenderGraph from '../data/genderGraph.js';
 import SubGraph from '../data/subscribersGraph.js';
 import GenderDistGraph from '../data/genderDistance.js';
+import StationID from '../data/StationID.js';
+import BikeID from '../data/bikeId.js';
 
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
@@ -65,6 +67,8 @@ export default function SimpleTabs(d1, d2, d3) {
           <Tab label="Gender Graph" {...a11yProps(0)} />
           <Tab label="Gender Distance Graph" {...a11yProps(1)} />
           <Tab label="Subscribers Graph" {...a11yProps(2)} />
+          <Tab label="Station ID Graph" {...a11yProps(3)} />
+          <Tab label="Bike ID Graph" {...a11yProps(4)} />
         </Tabs>
       </AppBar>
       <TabPanel value={value} index={0}>
@@ -75,6 +79,12 @@ export default function SimpleTabs(d1, d2, d3) {
       </TabPanel>
       <TabPanel value={value} index={2}>
       <SubGraph></SubGraph>
+      </TabPanel>
+      <TabPanel value={value} index={3}>
+      <StationID></StationID>
+      </TabPanel>
+      <TabPanel value={value} index={4}>
+      <BikeID></BikeID>
       </TabPanel>
     </div>
   );
