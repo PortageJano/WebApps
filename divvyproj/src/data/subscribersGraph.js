@@ -83,7 +83,7 @@ export default class SubGraph extends React.Component {
         color="white"
         p={2}
         position="absolute"
-        top={70}
+        top={200}
         left="5%"
         height={300}
         width={600}

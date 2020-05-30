@@ -45,7 +45,7 @@ class Map extends React.Component {
     return (
       <div>
         <div ref={el => this.mapContainer = el} style={style}/>
-        <SubmissionBox />
+        <SubmissionBox/>
       </div>
     );
   }
