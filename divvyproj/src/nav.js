@@ -13,26 +13,33 @@ import ClickAwayListener from '@material-ui/core/ClickAwayListener';
 import Grow from '@material-ui/core/Grow';
 import Paper from '@material-ui/core/Paper';
 import Popper from '@material-ui/core/Popper';
+import zIndex from '@material-ui/core/styles/zIndex';
 
 const useStyles = makeStyles((theme) => ({
   root: {
     display: 'flex',
     flexGrow: 1,
+    zIndex: 999999,
   },
   paper: {
     marginRight: theme.spacing(2),
+    zIndex: 999999,
   },
   menuButton: {
     marginRight: theme.spacing(2),
+    zIndex: 999999,
   },
   title: {
     flexGrow: 1,
+    zIndex: 999999,
   },
   list: {
     width: 250,
+    zIndex: 999999,
   },
   fullList: {
     width: 'auto',
+    zIndex: 999999,
   },
 }));
 
@@ -71,7 +78,7 @@ export default function NavBar() {
   }, [open]);
 
   return(
-    <AppBar position="static">
+    <AppBar position="absolute">
       <Toolbar>
         <div>
           <IconButton 
@@ -86,15 +93,15 @@ export default function NavBar() {
             >
             <MenuIcon />
           </IconButton>
-          <Popper open={open} anchorEl={anchorRef.current} role={undefined} transition disablePortal>
+          <Popper style = {{zindex: 9999}} open={open} anchorEl={anchorRef.current} role={undefined} transition disablePortal>
             {({ TransitionProps, placement }) => (
               <Grow
                 {...TransitionProps}
                 style={{ transformOrigin: placement === 'bottom' ? 'center top' : 'center bottom' }}
               >
-                <Paper>
+                <Paper style = {{zindex: 9999}} > 
                   <ClickAwayListener onClickAway={handleClose}>
-                    <MenuList autoFocusItem={open} id="menu-list-grow" onKeyDown={handleListKeyDown}>
+                    <MenuList style = {{zindex: 9999}} autoFocusItem={open} id="menu-list-grow" onKeyDown={handleListKeyDown}>
                       <Link to='/'>
                         <MenuItem onClick={handleClose}>Home</MenuItem>
                       </Link>

@@ -62,7 +62,7 @@ export default function SimpleTabs(d1, d2, d3) {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static">
+      <AppBar position="absolute" style={{zIndex: 800, top: 60}}>
         <Tabs value={value} onChange={handleChange} centered aria-label="tab between graphs">
           <Tab label="Gender Graph" {...a11yProps(0)} />
           <Tab label="Gender Distance Graph" {...a11yProps(1)} />
