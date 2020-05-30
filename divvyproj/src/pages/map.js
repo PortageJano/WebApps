@@ -1,60 +1,81 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import mapboxgl from 'mapbox-gl';
-import { withStyles } from '@material-ui/core/styles';
+import React, { useState, useEffect } from 'react';
+import ReactMapGL, { Marker, Popup } from 'react-map-gl';
+import * as stationData from '../data/divvy-bike-stations.json';
 
-import SubmissionBox from '../components/submit.js';
-
-mapboxgl.accessToken = 'pk.eyJ1IjoiY2hyaXNsYmFycmVyYSIsImEiOiJja2FrMWQwZWwwazExMnlsNjczejhnZ3R2In0.YIL2WuTSwDKnelA0crDfsw';
+import PolylineOverlay from '../components/polylineOverlay.js';
 
 
+export default function Map() {
+  const [viewport, setViewport] = useState({
+    latitude: 41.8781,
+    longitude: -87.6298,
+    left: "5%",
+    top: "12%",
+    width: "75%",
+    height: "100vh",
+    zoom: 11
+  });
+  const [selectedStation, setSelectedStation] = useState(null);
 
-class Map extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      lat: 41.8781,
-      lng: -87.6298,
-      zoom: 13
-    }
-  }
-
-  componentDidMount() {
-    const map = new mapboxgl.Map({
-      container: this.mapContainer,
-      style: 'mapbox://styles/chrislbarrera/ckakc4c0i1jbj1ioc7hkkxb2r',
-      center: [this.state.lng, this.state.lat],
-      zoom: this.state.zoom,
-    });
-    map.on('move', () => {
-      this.setState({
-        lng: map.getCenter().lng.toFixed(4),
-        lat: map.getCenter().lat.toFixed(4),
-        zoom: map.getZoom().toFixed(2)
-      });
-    });
-  }
-
-  render() {
-    const style = {
-      position: 'absolute',
-      top: '12%',
-      bottom: 0,
-      width: '75%'
+  // Escape key listener
+  useEffect(() => {
+    const listener = (e) => {
+      if(e.key === "Escape") {
+        setSelectedStation(null);
+      }
     };
-    return (
-      <div>
-        <div ref={el => this.mapContainer = el} style={style}/>
-        <SubmissionBox />
-      </div>
-    );
-  }
-}
+    window.addEventListener("keydown", listener);
 
-export default Map;
-  //   render(){
-  //     return (
-  //       <h1> this is the map page this is the queries {decodeURIComponent(new URLSearchParams(window.location.search).get("msg"))} </h1>
-  //     );
-  //   }
-  // }
+    // cleanup
+    return () => {
+      window.removeEventListener("keydown", listener);  
+    }
+  }, []);
+
+  return (
+    <div>
+      <ReactMapGL 
+        {...viewport} 
+        mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
+        mapStyle="mapbox://styles/chrislbarrera/ckakc4c0i1jbj1ioc7hkkxb2r"
+        onViewportChange={viewport => {
+          setViewport(viewport);
+        }}
+      >
+        {stationData.features.map(station => (
+          <Marker 
+            key={station.properties.STATION_ID} 
+            latitude={station.geometry.coordinates[1]}
+            longitude={station.geometry.coordinates[0]}
+          >
+            <button 
+              className="marker-btn" 
+              onClick={(e) => {
+                e.preventDefault();
+                setSelectedStation(station);
+              }}
+            >
+              <img src="/bike.svg" alt="Station Marker Icon" />
+            </button>
+          </Marker>
+        ))}
+
+        {selectedStation ? (
+          // <PolylineOverlay points={[[-87.649993,41.952833],[-87.654406,41.954245]]}/>
+          <Popup 
+            latitude={selectedStation.geometry.coordinates[1]} 
+            longitude={selectedStation.geometry.coordinates[0]}
+            onClose={() => {
+              setSelectedStation(null);
+            }}
+          >
+            <div>
+              <h3>{selectedStation.properties.title}</h3>
+              <p>{selectedStation.properties.description}</p>
+            </div>
+          </Popup>
+        ) : null}
+      </ReactMapGL>
+    </div>
+  )
+}

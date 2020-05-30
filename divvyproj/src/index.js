@@ -7,6 +7,8 @@ import Graph from './pages/graph.js';
 import Map from './pages/map.js';
 import NavBar from './nav.js';
 
+import './index.css';
+
 class App extends React.Component {
   render() {
     return (

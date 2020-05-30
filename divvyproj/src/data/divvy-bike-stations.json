@@ -1,0 +1,7145 @@
+{ 
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Buckingham Fountain",
+				"description": "docks in service: 39",
+				"STATION_ID": "2"
+			},
+			"geometry": {
+				"coordinates": [-87.62054800987242,41.87651122881695],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Shedd Aquarium",
+				"description": "docks in service: 55",
+				"STATION_ID": "3"
+			},
+			"geometry": {
+				"coordinates": [-87.6153553902,41.86722595682],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Burnham Harbor",
+				"description": "docks in service: 23",
+				"STATION_ID": "4"
+			},
+			"geometry": {
+				"coordinates": [-87.613348,41.856268],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & Harrison St",
+				"description": "docks in service: 23",
+				"STATION_ID": "5"
+			},
+			"geometry": {
+				"coordinates": [-87.627716,41.874053],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dusable Harbor",
+				"description": "docks in service: 39",
+				"STATION_ID": "6"
+			},
+			"geometry": {
+				"coordinates": [-87.612813,41.886976],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Field Blvd & South Water St",
+				"description": "docks in service: 19",
+				"STATION_ID": "7"
+			},
+			"geometry": {
+				"coordinates": [-87.6175165471,41.88634906269],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Leavitt St & Archer Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "9"
+			},
+			"geometry": {
+				"coordinates": [-87.6806044594,41.82879201994],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Jeffery Blvd & 71st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "11"
+			},
+			"geometry": {
+				"coordinates": [-87.5764501141,41.76663823695],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "South Shore Dr & 71st St",
+				"description": "docks in service: 15",
+				"STATION_ID": "12"
+			},
+			"geometry": {
+				"coordinates": [-87.5656875719,41.7664094567],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wilton Ave & Diversey Pkwy",
+				"description": "docks in service: 35",
+				"STATION_ID": "13"
+			},
+			"geometry": {
+				"coordinates": [-87.652705,41.932418],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Morgan St & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "14"
+			},
+			"geometry": {
+				"coordinates": [-87.651073,41.858086],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "15"
+			},
+			"geometry": {
+				"coordinates": [-87.656495,41.858166],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Paulina Ave & North Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "16"
+			},
+			"geometry": {
+				"coordinates": [-87.670072,41.910337],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Honore St & Division St",
+				"description": "docks in service: 23",
+				"STATION_ID": "17"
+			},
+			"geometry": {
+				"coordinates": [-87.673935,41.903119],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wacker Dr & Washington St",
+				"description": "docks in service: 19",
+				"STATION_ID": "18"
+			},
+			"geometry": {
+				"coordinates": [-87.637321,41.883132],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Throop (Loomis) St & Taylor St",
+				"description": "docks in service: 15",
+				"STATION_ID": "19"
+			},
+			"geometry": {
+				"coordinates": [-87.659141,41.868968],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Kingsbury St",
+				"description": "docks in service: 15",
+				"STATION_ID": "20"
+			},
+			"geometry": {
+				"coordinates": [-87.653106,41.910522],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Aberdeen St & Jackson Blvd",
+				"description": "docks in service: 23",
+				"STATION_ID": "21"
+			},
+			"geometry": {
+				"coordinates": [-87.65478743,41.87772613],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "May St & Taylor St",
+				"description": "docks in service: 15",
+				"STATION_ID": "22"
+			},
+			"geometry": {
+				"coordinates": [-87.6554864,41.8694821],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Orleans St & Elm St",
+				"description": "docks in service: 15",
+				"STATION_ID": "23"
+			},
+			"geometry": {
+				"coordinates": [-87.637715,41.902924],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Fairbanks Ct & Grand Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "24"
+			},
+			"geometry": {
+				"coordinates": [-87.62058019638062,41.89184737210993],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Pearson St",
+				"description": "docks in service: 23",
+				"STATION_ID": "25"
+			},
+			"geometry": {
+				"coordinates": [-87.62351,41.89766],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "McClurg Ct & Illinois St",
+				"description": "docks in service: 31",
+				"STATION_ID": "26"
+			},
+			"geometry": {
+				"coordinates": [-87.617532,41.890359],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & North Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "27"
+			},
+			"geometry": {
+				"coordinates": [-87.6435,41.91021],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & Menomonee St",
+				"description": "docks in service: 15",
+				"STATION_ID": "28"
+			},
+			"geometry": {
+				"coordinates": [-87.64332,41.91468],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Noble St & Milwaukee Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "29"
+			},
+			"geometry": {
+				"coordinates": [-87.6626,41.90068],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Augusta Blvd",
+				"description": "docks in service: 15",
+				"STATION_ID": "30"
+			},
+			"geometry": {
+				"coordinates": [-87.6677,41.899643],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Franklin St & Chicago Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "31"
+			},
+			"geometry": {
+				"coordinates": [-87.63566762208939,41.896746973093805],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & Congress Pkwy",
+				"description": "docks in service: 19",
+				"STATION_ID": "32"
+			},
+			"geometry": {
+				"coordinates": [-87.65703,41.87464],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & Van Buren St",
+				"description": "docks in service: 27",
+				"STATION_ID": "33"
+			},
+			"geometry": {
+				"coordinates": [-87.627844,41.877181],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cannon Dr & Fullerton Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "34"
+			},
+			"geometry": {
+				"coordinates": [-87.6344287848,41.9267559875],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Streeter Dr & Grand Ave",
+				"description": "docks in service: 47",
+				"STATION_ID": "35"
+			},
+			"geometry": {
+				"coordinates": [-87.612043,41.892278],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Franklin St & Jackson Blvd",
+				"description": "docks in service: 39",
+				"STATION_ID": "36"
+			},
+			"geometry": {
+				"coordinates": [-87.6353211408,41.8777079559],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dearborn St & Adams St",
+				"description": "docks in service: 19",
+				"STATION_ID": "37"
+			},
+			"geometry": {
+				"coordinates": [-87.6297910363,41.8793563587],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Lake St",
+				"description": "docks in service: 27",
+				"STATION_ID": "38"
+			},
+			"geometry": {
+				"coordinates": [-87.6308760584,41.88602082773],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & Adams St",
+				"description": "docks in service: 23",
+				"STATION_ID": "39"
+			},
+			"geometry": {
+				"coordinates": [-87.6256886059,41.87947235235],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "LaSalle St & Adams St",
+				"description": "docks in service: 15",
+				"STATION_ID": "40"
+			},
+			"geometry": {
+				"coordinates": [-87.6319852213,41.87934437346],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Federal St & Polk St",
+				"description": "docks in service: 19",
+				"STATION_ID": "41"
+			},
+			"geometry": {
+				"coordinates": [-87.6295437729,41.87207763285],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & Cermak Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "42"
+			},
+			"geometry": {
+				"coordinates": [-87.626488,41.852619],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Washington St",
+				"description": "docks in service: 43",
+				"STATION_ID": "43"
+			},
+			"geometry": {
+				"coordinates": [-87.6246839761734,41.8839840647265],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & Randolph St",
+				"description": "docks in service: 27",
+				"STATION_ID": "44"
+			},
+			"geometry": {
+				"coordinates": [-87.6277335692,41.8847302006],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Ida B Wells Dr",
+				"description": "docks in service: 15",
+				"STATION_ID": "45"
+			},
+			"geometry": {
+				"coordinates": [-87.624426,41.876243],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Walton St",
+				"description": "docks in service: 19",
+				"STATION_ID": "46"
+			},
+			"geometry": {
+				"coordinates": [-87.63443007,41.89993001],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & Kinzie St",
+				"description": "docks in service: 31",
+				"STATION_ID": "47"
+			},
+			"geometry": {
+				"coordinates": [-87.627754,41.889187],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & Kingsbury St",
+				"description": "docks in service: 43",
+				"STATION_ID": "48"
+			},
+			"geometry": {
+				"coordinates": [-87.642884,41.897764],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dearborn St & Monroe St",
+				"description": "docks in service: 39",
+				"STATION_ID": "49"
+			},
+			"geometry": {
+				"coordinates": [-87.6295209193,41.881319815],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Ida B Wells Dr",
+				"description": "docks in service: 35",
+				"STATION_ID": "50"
+			},
+			"geometry": {
+				"coordinates": [-87.6305845355,41.8759326655],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Randolph St",
+				"description": "docks in service: 39",
+				"STATION_ID": "51"
+			},
+			"geometry": {
+				"coordinates": [-87.63188991,41.884576228],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Lake St",
+				"description": "docks in service: 35",
+				"STATION_ID": "52"
+			},
+			"geometry": {
+				"coordinates": [-87.624117,41.886024],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Huron St",
+				"description": "docks in service: 27",
+				"STATION_ID": "53"
+			},
+			"geometry": {
+				"coordinates": [-87.634362,41.894722],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ogden Ave & Chicago Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "54"
+			},
+			"geometry": {
+				"coordinates": [-87.6540612729,41.896362458],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Roosevelt Rd",
+				"description": "docks in service: 23",
+				"STATION_ID": "55"
+			},
+			"geometry": {
+				"coordinates": [-87.648625,41.867324],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Desplaines St & Kinzie St",
+				"description": "docks in service: 27",
+				"STATION_ID": "56"
+			},
+			"geometry": {
+				"coordinates": [-87.6444478533,41.888716036],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Roosevelt Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "57"
+			},
+			"geometry": {
+				"coordinates": [-87.6410879593,41.8671177825],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Marshfield Ave & Cortland St",
+				"description": "docks in service: 23",
+				"STATION_ID": "58"
+			},
+			"geometry": {
+				"coordinates": [-87.668879,41.916017],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & Roosevelt Rd",
+				"description": "docks in service: 23",
+				"STATION_ID": "59"
+			},
+			"geometry": {
+				"coordinates": [-87.625961,41.867227],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dayton St & North Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "60"
+			},
+			"geometry": {
+				"coordinates": [-87.6494219288,41.9105780349],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wood St & Milwaukee Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "61"
+			},
+			"geometry": {
+				"coordinates": [-87.672552,41.907655],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "McCormick Place",
+				"description": "docks in service: 27",
+				"STATION_ID": "62"
+			},
+			"geometry": {
+				"coordinates": [-87.6188346489,41.8513751729],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Lake St",
+				"description": "docks in service: 23",
+				"STATION_ID": "66"
+			},
+			"geometry": {
+				"coordinates": [-87.641823,41.885637],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Fullerton Ave",
+				"description": "docks in service: 27",
+				"STATION_ID": "67"
+			},
+			"geometry": {
+				"coordinates": [-87.6537080423,41.9256018819],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Tilden St",
+				"description": "docks in service: 23",
+				"STATION_ID": "68"
+			},
+			"geometry": {
+				"coordinates": [-87.640795,41.875885],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Pierce Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "69"
+			},
+			"geometry": {
+				"coordinates": [-87.6776919292,41.9093960065],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Morgan St & Lake St",
+				"description": "docks in service: 23",
+				"STATION_ID": "71"
+			},
+			"geometry": {
+				"coordinates": [-87.6523048564,41.8854833079],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & 16th St",
+				"description": "docks in service: 39",
+				"STATION_ID": "72"
+			},
+			"geometry": {
+				"coordinates": [-87.625813,41.860384],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Jefferson St & Monroe St",
+				"description": "docks in service: 19",
+				"STATION_ID": "73"
+			},
+			"geometry": {
+				"coordinates": [-87.642746,41.880422],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kingsbury St & Erie St",
+				"description": "docks in service: 23",
+				"STATION_ID": "74"
+			},
+			"geometry": {
+				"coordinates": [-87.64169722795485,41.89380805624359],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Canal St & Jackson Blvd",
+				"description": "docks in service: 47",
+				"STATION_ID": "75"
+			},
+			"geometry": {
+				"coordinates": [-87.639366,41.877245],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Shore Dr & Monroe St",
+				"description": "docks in service: 39",
+				"STATION_ID": "76"
+			},
+			"geometry": {
+				"coordinates": [-87.616743,41.880958],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Madison St",
+				"description": "docks in service: 31",
+				"STATION_ID": "77"
+			},
+			"geometry": {
+				"coordinates": [-87.641066,41.882242],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Aberdeen St & Monroe St",
+				"description": "docks in service: 19",
+				"STATION_ID": "80"
+			},
+			"geometry": {
+				"coordinates": [-87.655519,41.880419],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Daley Center Plaza",
+				"description": "docks in service: 39",
+				"STATION_ID": "81"
+			},
+			"geometry": {
+				"coordinates": [-87.629634,41.884241],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Milwaukee Ave & Grand Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "84"
+			},
+			"geometry": {
+				"coordinates": [-87.648384,41.891578],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Oak St",
+				"description": "docks in service: 23",
+				"STATION_ID": "85"
+			},
+			"geometry": {
+				"coordinates": [-87.62377664,41.90096039],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Eckhart Park",
+				"description": "docks in service: 19",
+				"STATION_ID": "86"
+			},
+			"geometry": {
+				"coordinates": [-87.66098386,41.89637337],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & Fullerton Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "87"
+			},
+			"geometry": {
+				"coordinates": [-87.65840426,41.92556258],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & Randolph St",
+				"description": "docks in service: 19",
+				"STATION_ID": "88"
+			},
+			"geometry": {
+				"coordinates": [-87.656853,41.884069],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Financial Pl & Ida B Wells Dr",
+				"description": "docks in service: 31",
+				"STATION_ID": "89"
+			},
+			"geometry": {
+				"coordinates": [-87.6330940425396,41.8750236280333],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Millennium Park",
+				"description": "docks in service: 47",
+				"STATION_ID": "90"
+			},
+			"geometry": {
+				"coordinates": [-87.62408432,41.8810317],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Washington Blvd",
+				"description": "docks in service: 31",
+				"STATION_ID": "91"
+			},
+			"geometry": {
+				"coordinates": [-87.64117,41.88338],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Carpenter St & Huron St",
+				"description": "docks in service: 19",
+				"STATION_ID": "92"
+			},
+			"geometry": {
+				"coordinates": [-87.653449,41.894556],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Willow St",
+				"description": "docks in service: 15",
+				"STATION_ID": "93"
+			},
+			"geometry": {
+				"coordinates": [-87.652855,41.913688],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Armitage Ave",
+				"description": "docks in service: 31",
+				"STATION_ID": "94"
+			},
+			"geometry": {
+				"coordinates": [-87.636282,41.918306],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stony Island Ave & 64th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "95"
+			},
+			"geometry": {
+				"coordinates": [-87.586647,41.778881],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Desplaines St & Randolph St",
+				"description": "docks in service: 23",
+				"STATION_ID": "96"
+			},
+			"geometry": {
+				"coordinates": [-87.6445705849,41.88461618962],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Field Museum",
+				"description": "docks in service: 55",
+				"STATION_ID": "97"
+			},
+			"geometry": {
+				"coordinates": [-87.617867,41.865312],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "LaSalle St & Washington St",
+				"description": "docks in service: 15",
+				"STATION_ID": "98"
+			},
+			"geometry": {
+				"coordinates": [-87.63253,41.882664],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Shore Dr & Ohio St",
+				"description": "docks in service: 19",
+				"STATION_ID": "99"
+			},
+			"geometry": {
+				"coordinates": [-87.614492,41.89257],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Orleans St & Merchandise Mart Plaza",
+				"description": "docks in service: 35",
+				"STATION_ID": "100"
+			},
+			"geometry": {
+				"coordinates": [-87.63639,41.888243],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "63rd St Beach",
+				"description": "docks in service: 15",
+				"STATION_ID": "101"
+			},
+			"geometry": {
+				"coordinates": [-87.5761197602,41.78101637196],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stony Island Ave & 67th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "102"
+			},
+			"geometry": {
+				"coordinates": [-87.5853397391,41.77345849948],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Polk St",
+				"description": "docks in service: 15",
+				"STATION_ID": "103"
+			},
+			"geometry": {
+				"coordinates": [-87.6409491327,41.87146651779],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & Pearson St",
+				"description": "docks in service: 27",
+				"STATION_ID": "106"
+			},
+			"geometry": {
+				"coordinates": [-87.628722,41.897448],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Desplaines St & Jackson Blvd",
+				"description": "docks in service: 27",
+				"STATION_ID": "107"
+			},
+			"geometry": {
+				"coordinates": [-87.643909,41.878287],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Polk St",
+				"description": "docks in service: 19",
+				"STATION_ID": "108"
+			},
+			"geometry": {
+				"coordinates": [-87.64664,41.87184],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "900 W Harrison St",
+				"description": "docks in service: 19",
+				"STATION_ID": "109"
+			},
+			"geometry": {
+				"coordinates": [-87.649807,41.874754],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dearborn St & Erie St",
+				"description": "docks in service: 27",
+				"STATION_ID": "110"
+			},
+			"geometry": {
+				"coordinates": [-87.629318,41.893992],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sedgwick St & Huron St",
+				"description": "docks in service: 27",
+				"STATION_ID": "111"
+			},
+			"geometry": {
+				"coordinates": [-87.638437,41.894666],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Green St & Randolph St",
+				"description": "docks in service: 15",
+				"STATION_ID": "112"
+			},
+			"geometry": {
+				"coordinates": [-87.64867,41.883668],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Bissell St & Armitage Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "113"
+			},
+			"geometry": {
+				"coordinates": [-87.65222,41.91844],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Waveland Ave",
+				"description": "docks in service: 27",
+				"STATION_ID": "114"
+			},
+			"geometry": {
+				"coordinates": [-87.654529,41.949399],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Wellington Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "115"
+			},
+			"geometry": {
+				"coordinates": [-87.652662,41.936266],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Winnebago Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "116"
+			},
+			"geometry": {
+				"coordinates": [-87.687022,41.91552],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wilton Ave & Belmont Ave",
+				"description": "docks in service: 27",
+				"STATION_ID": "117"
+			},
+			"geometry": {
+				"coordinates": [-87.65304,41.94018],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sedgwick St & North Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "118"
+			},
+			"geometry": {
+				"coordinates": [-87.638677,41.911386],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Lake St",
+				"description": "docks in service: 19",
+				"STATION_ID": "119"
+			},
+			"geometry": {
+				"coordinates": [-87.66717,41.88592],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wentworth Ave & Cermak Rd (Temp)",
+				"description": "docks in service: 19",
+				"STATION_ID": "120"
+			},
+			"geometry": {
+				"coordinates": [-87.630578,41.853005],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Blackstone Ave & Hyde Park Blvd",
+				"description": "docks in service: 19",
+				"STATION_ID": "121"
+			},
+			"geometry": {
+				"coordinates": [-87.590368,41.802562],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ogden Ave & Congress Pkwy",
+				"description": "docks in service: 15",
+				"STATION_ID": "122"
+			},
+			"geometry": {
+				"coordinates": [-87.67328,41.87501],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Milwaukee Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "123"
+			},
+			"geometry": {
+				"coordinates": [-87.697153,41.922695],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Cullerton St",
+				"description": "docks in service: 15",
+				"STATION_ID": "124"
+			},
+			"geometry": {
+				"coordinates": [-87.675726,41.855048],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rush St & Hubbard St",
+				"description": "docks in service: 23",
+				"STATION_ID": "125"
+			},
+			"geometry": {
+				"coordinates": [-87.626185,41.890173],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & North Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "126"
+			},
+			"geometry": {
+				"coordinates": [-87.631942,41.911974],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Fullerton Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "127"
+			},
+			"geometry": {
+				"coordinates": [-87.64926,41.925905],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Chicago Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "128"
+			},
+			"geometry": {
+				"coordinates": [-87.67722,41.895769],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Blue Island Ave & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "129"
+			},
+			"geometry": {
+				"coordinates": [-87.661535,41.857556],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Division St",
+				"description": "docks in service: 19",
+				"STATION_ID": "130"
+			},
+			"geometry": {
+				"coordinates": [-87.678435,41.903266],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Belmont Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "131"
+			},
+			"geometry": {
+				"coordinates": [-87.668385,41.939365],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wentworth Ave & 24th St (Temp)",
+				"description": "docks in service: 15",
+				"STATION_ID": "132"
+			},
+			"geometry": {
+				"coordinates": [-87.6321405172348,41.85008369347577],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kingsbury St & Kinzie St",
+				"description": "docks in service: 31",
+				"STATION_ID": "133"
+			},
+			"geometry": {
+				"coordinates": [-87.6385057718,41.88917683258],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Peoria St & Jackson Blvd",
+				"description": "docks in service: 19",
+				"STATION_ID": "134"
+			},
+			"geometry": {
+				"coordinates": [-87.64961779117584,41.8776415962753],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 21st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "135"
+			},
+			"geometry": {
+				"coordinates": [-87.64665,41.85378],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & 13th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "136"
+			},
+			"geometry": {
+				"coordinates": [-87.656959,41.865054],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Morgan Ave & 14th Pl",
+				"description": "docks in service: 15",
+				"STATION_ID": "137"
+			},
+			"geometry": {
+				"coordinates": [-87.651062,41.862378],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clybourn Ave & Division St",
+				"description": "docks in service: 15",
+				"STATION_ID": "138"
+			},
+			"geometry": {
+				"coordinates": [-87.640552,41.904613],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dearborn Pkwy & Delaware Pl",
+				"description": "docks in service: 19",
+				"STATION_ID": "140"
+			},
+			"geometry": {
+				"coordinates": [-87.629912,41.898969],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Lincoln Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "141"
+			},
+			"geometry": {
+				"coordinates": [-87.6346,41.915689],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "McClurg Ct & Erie St",
+				"description": "docks in service: 31",
+				"STATION_ID": "142"
+			},
+			"geometry": {
+				"coordinates": [-87.617854,41.894503],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sedgwick St & Webster Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "143"
+			},
+			"geometry": {
+				"coordinates": [-87.638888,41.922167],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & Webster Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "144"
+			},
+			"geometry": {
+				"coordinates": [-87.64414,41.921822],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Mies van der Rohe Way & Chestnut St",
+				"description": "docks in service: 19",
+				"STATION_ID": "145"
+			},
+			"geometry": {
+				"coordinates": [-87.6219152258,41.8985866514],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Loomis St & Jackson Blvd",
+				"description": "docks in service: 19",
+				"STATION_ID": "146"
+			},
+			"geometry": {
+				"coordinates": [-87.662007,41.877945],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Indiana Ave & 26th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "147"
+			},
+			"geometry": {
+				"coordinates": [-87.622481,41.845687],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & 33rd St",
+				"description": "docks in service: 15",
+				"STATION_ID": "148"
+			},
+			"geometry": {
+				"coordinates": [-87.625813,41.834734],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Calumet Ave & 33rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "149"
+			},
+			"geometry": {
+				"coordinates": [-87.61793,41.8349],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Fort Dearborn Dr & 31st St",
+				"description": "docks in service: 27",
+				"STATION_ID": "150"
+			},
+			"geometry": {
+				"coordinates": [-87.608218,41.838556],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Diversey Pkwy",
+				"description": "docks in service: 15",
+				"STATION_ID": "152"
+			},
+			"geometry": {
+				"coordinates": [-87.658617,41.932225],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Wellington Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "153"
+			},
+			"geometry": {
+				"coordinates": [-87.663576,41.935733],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Belmont Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "154"
+			},
+			"geometry": {
+				"coordinates": [-87.66378,41.93949],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Wellington Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "156"
+			},
+			"geometry": {
+				"coordinates": [-87.6475386582,41.9364968219],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Shore Dr & Wellington Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "157"
+			},
+			"geometry": {
+				"coordinates": [-87.63682901859283,41.9366884494997],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Milwaukee Ave & Wabansia Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "158"
+			},
+			"geometry": {
+				"coordinates": [-87.681391,41.912616],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Claremont Ave & Hirsch St",
+				"description": "docks in service: 11",
+				"STATION_ID": "159"
+			},
+			"geometry": {
+				"coordinates": [-87.685854,41.907781],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Campbell Ave & North Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "160"
+			},
+			"geometry": {
+				"coordinates": [-87.689556,41.910535],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rush St & Superior St",
+				"description": "docks in service: 23",
+				"STATION_ID": "161"
+			},
+			"geometry": {
+				"coordinates": [-87.6259080327,41.89576474564],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Wellington Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "162"
+			},
+			"geometry": {
+				"coordinates": [-87.67842,41.93588],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Clybourn Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "163"
+			},
+			"geometry": {
+				"coordinates": [-87.677856,41.931931],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Franklin St & Lake St",
+				"description": "docks in service: 27",
+				"STATION_ID": "164"
+			},
+			"geometry": {
+				"coordinates": [-87.6355,41.885837],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Grace St",
+				"description": "docks in service: 23",
+				"STATION_ID": "165"
+			},
+			"geometry": {
+				"coordinates": [-87.659172,41.95078],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Wrightwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "166"
+			},
+			"geometry": {
+				"coordinates": [-87.668507,41.92883],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Coulter St",
+				"description": "docks in service: 7",
+				"STATION_ID": "167"
+			},
+			"geometry": {
+				"coordinates": [-87.67564,41.8492],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & 14th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "168"
+			},
+			"geometry": {
+				"coordinates": [-87.623727,41.864059],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Canal St & Harrison St",
+				"description": "docks in service: 15",
+				"STATION_ID": "169"
+			},
+			"geometry": {
+				"coordinates": [-87.639573,41.874255],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "170"
+			},
+			"geometry": {
+				"coordinates": [-87.640826,41.85795],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "May St & Cullerton St",
+				"description": "docks in service: 11",
+				"STATION_ID": "171"
+			},
+			"geometry": {
+				"coordinates": [-87.654127,41.855136],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rush St & Cedar St",
+				"description": "docks in service: 11",
+				"STATION_ID": "172"
+			},
+			"geometry": {
+				"coordinates": [-87.627690528,41.90230870122],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Mies van der Rohe Way & Chicago Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "173"
+			},
+			"geometry": {
+				"coordinates": [-87.621743,41.89691],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Canal St & Madison St",
+				"description": "docks in service: 35",
+				"STATION_ID": "174"
+			},
+			"geometry": {
+				"coordinates": [-87.639833,41.882091],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Polk St",
+				"description": "docks in service: 19",
+				"STATION_ID": "175"
+			},
+			"geometry": {
+				"coordinates": [-87.633502,41.872596],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Elm St",
+				"description": "docks in service: 39",
+				"STATION_ID": "176"
+			},
+			"geometry": {
+				"coordinates": [-87.63128,41.902973],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Theater on the Lake",
+				"description": "docks in service: 31",
+				"STATION_ID": "177"
+			},
+			"geometry": {
+				"coordinates": [-87.630834,41.926277],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & 19th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "178"
+			},
+			"geometry": {
+				"coordinates": [-87.627542,41.856594],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MLK Jr Dr & Pershing Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "179"
+			},
+			"geometry": {
+				"coordinates": [-87.61678,41.8246],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ritchie Ct & Banks St",
+				"description": "docks in service: 15",
+				"STATION_ID": "180"
+			},
+			"geometry": {
+				"coordinates": [-87.626217,41.906866],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "LaSalle St & Illinois St",
+				"description": "docks in service: 31",
+				"STATION_ID": "181"
+			},
+			"geometry": {
+				"coordinates": [-87.631697,41.890762],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Elm St",
+				"description": "docks in service: 23",
+				"STATION_ID": "182"
+			},
+			"geometry": {
+				"coordinates": [-87.634324,41.903222],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Thomas St (Augusta Blvd)",
+				"description": "docks in service: 23",
+				"STATION_ID": "183"
+			},
+			"geometry": {
+				"coordinates": [-87.677409,41.901315],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & 35th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "184"
+			},
+			"geometry": {
+				"coordinates": [-87.62803,41.8309],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stave St & Armitage Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "185"
+			},
+			"geometry": {
+				"coordinates": [-87.691392,41.917741],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ogden Ave & Race Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "186"
+			},
+			"geometry": {
+				"coordinates": [-87.658751,41.891795],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Greenview Ave & Fullerton Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "188"
+			},
+			"geometry": {
+				"coordinates": [-87.6658,41.92533],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Wrightwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "190"
+			},
+			"geometry": {
+				"coordinates": [-87.663913,41.928773],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Canal St & Monroe St",
+				"description": "docks in service: 27",
+				"STATION_ID": "191"
+			},
+			"geometry": {
+				"coordinates": [-87.63953,41.88169],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Canal St & Adams St",
+				"description": "docks in service: 47",
+				"STATION_ID": "192"
+			},
+			"geometry": {
+				"coordinates": [-87.639904,41.879255],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & 29th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "193"
+			},
+			"geometry": {
+				"coordinates": [-87.626938,41.841707],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & Wacker Pl",
+				"description": "docks in service: 19",
+				"STATION_ID": "194"
+			},
+			"geometry": {
+				"coordinates": [-87.62603,41.886875],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Columbus Dr & Randolph St",
+				"description": "docks in service: 55",
+				"STATION_ID": "195"
+			},
+			"geometry": {
+				"coordinates": [-87.619521,41.884728],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cityfront Plaza Dr & Pioneer Ct",
+				"description": "docks in service: 31",
+				"STATION_ID": "196"
+			},
+			"geometry": {
+				"coordinates": [-87.622072,41.890573],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Madison St",
+				"description": "docks in service: 19",
+				"STATION_ID": "197"
+			},
+			"geometry": {
+				"coordinates": [-87.625125,41.882134],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Green St & Madison St",
+				"description": "docks in service: 27",
+				"STATION_ID": "198"
+			},
+			"geometry": {
+				"coordinates": [-87.648789,41.881892],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & Grand Ave",
+				"description": "docks in service: 31",
+				"STATION_ID": "199"
+			},
+			"geometry": {
+				"coordinates": [-87.626761,41.891466],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MLK Jr Dr & 47th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "200"
+			},
+			"geometry": {
+				"coordinates": [-87.616279,41.809851],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Indiana Ave & 40th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "201"
+			},
+			"geometry": {
+				"coordinates": [-87.6216,41.82168],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "202"
+			},
+			"geometry": {
+				"coordinates": [-87.646277,41.857499],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & 21st St",
+				"description": "docks in service: 15",
+				"STATION_ID": "203"
+			},
+			"geometry": {
+				"coordinates": [-87.685838,41.854109],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Prairie Ave & Garfield Blvd",
+				"description": "docks in service: 11",
+				"STATION_ID": "204"
+			},
+			"geometry": {
+				"coordinates": [-87.618691,41.794853],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Paulina St & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "205"
+			},
+			"geometry": {
+				"coordinates": [-87.668745,41.857901],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Archer Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "206"
+			},
+			"geometry": {
+				"coordinates": [-87.646795,41.847203],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Emerald Ave & 28th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "207"
+			},
+			"geometry": {
+				"coordinates": [-87.645368,41.84358],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Laflin St & Cullerton St",
+				"description": "docks in service: 15",
+				"STATION_ID": "208"
+			},
+			"geometry": {
+				"coordinates": [-87.66355991363525,41.85491457576575],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Normal Ave & Archer Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "209"
+			},
+			"geometry": {
+				"coordinates": [-87.640591,41.849527],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Division St",
+				"description": "docks in service: 27",
+				"STATION_ID": "210"
+			},
+			"geometry": {
+				"coordinates": [-87.667747,41.90345],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "St. Clair St & Erie St",
+				"description": "docks in service: 19",
+				"STATION_ID": "211"
+			},
+			"geometry": {
+				"coordinates": [-87.622663,41.894448],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Hubbard St",
+				"description": "docks in service: 31",
+				"STATION_ID": "212"
+			},
+			"geometry": {
+				"coordinates": [-87.634266,41.889906],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Leavitt St & North Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "213"
+			},
+			"geometry": {
+				"coordinates": [-87.68229,41.910153],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Grand Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "214"
+			},
+			"geometry": {
+				"coordinates": [-87.67686,41.89122],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Madison St",
+				"description": "docks in service: 15",
+				"STATION_ID": "215"
+			},
+			"geometry": {
+				"coordinates": [-87.67493,41.88137],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Division St",
+				"description": "docks in service: 15",
+				"STATION_ID": "216"
+			},
+			"geometry": {
+				"coordinates": [-87.697474,41.903029],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Elizabeth (May) St & Fulton St",
+				"description": "docks in service: 15",
+				"STATION_ID": "217"
+			},
+			"geometry": {
+				"coordinates": [-87.6580399274826,41.886616486027656],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & 19th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "218"
+			},
+			"geometry": {
+				"coordinates": [-87.633879,41.856802],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Cortland St",
+				"description": "docks in service: 19",
+				"STATION_ID": "219"
+			},
+			"geometry": {
+				"coordinates": [-87.677335,41.915983],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Drummond Pl",
+				"description": "docks in service: 23",
+				"STATION_ID": "220"
+			},
+			"geometry": {
+				"coordinates": [-87.644336,41.931248],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Milwaukee Ave & Rockwell St",
+				"description": "docks in service: 19",
+				"STATION_ID": "222"
+			},
+			"geometry": {
+				"coordinates": [-87.693033,41.920195],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clifton Ave & Armitage Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "223"
+			},
+			"geometry": {
+				"coordinates": [-87.656936,41.918216],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Willow St",
+				"description": "docks in service: 19",
+				"STATION_ID": "224"
+			},
+			"geometry": {
+				"coordinates": [-87.648755,41.913865],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Dickens Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "225"
+			},
+			"geometry": {
+				"coordinates": [-87.64883,41.919936],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & Belmont Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "226"
+			},
+			"geometry": {
+				"coordinates": [-87.658865,41.939743],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Waveland Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "227"
+			},
+			"geometry": {
+				"coordinates": [-87.66394,41.94815],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Melrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "228"
+			},
+			"geometry": {
+				"coordinates": [-87.6785,41.9406],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Roscoe St",
+				"description": "docks in service: 19",
+				"STATION_ID": "229"
+			},
+			"geometry": {
+				"coordinates": [-87.66402,41.943739],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Roscoe St",
+				"description": "docks in service: 19",
+				"STATION_ID": "230"
+			},
+			"geometry": {
+				"coordinates": [-87.67097,41.94334],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Montrose Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "231"
+			},
+			"geometry": {
+				"coordinates": [-87.65464,41.96167],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Pine Grove Ave & Waveland Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "232"
+			},
+			"geometry": {
+				"coordinates": [-87.6460611820221,41.94986772029711],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sangamon St & Washington Blvd",
+				"description": "docks in service: 15",
+				"STATION_ID": "233"
+			},
+			"geometry": {
+				"coordinates": [-87.6511,41.883165],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Montrose Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "234"
+			},
+			"geometry": {
+				"coordinates": [-87.666036,41.961588],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sedgwick St & Schiller St",
+				"description": "docks in service: 15",
+				"STATION_ID": "236"
+			},
+			"geometry": {
+				"coordinates": [-87.638566,41.907626],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MLK Jr Dr & 29th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "237"
+			},
+			"geometry": {
+				"coordinates": [-87.617,41.842052],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wolcott (Ravenswood) Ave & Montrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "238"
+			},
+			"geometry": {
+				"coordinates": [-87.676169,41.961406],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Leland Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "239"
+			},
+			"geometry": {
+				"coordinates": [-87.68841862678528,41.96649453206122],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Irving Park Rd",
+				"description": "docks in service: 27",
+				"STATION_ID": "240"
+			},
+			"geometry": {
+				"coordinates": [-87.654406,41.954245],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Morgan St & Polk St",
+				"description": "docks in service: 19",
+				"STATION_ID": "241"
+			},
+			"geometry": {
+				"coordinates": [-87.65103,41.871737],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Leland Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "242"
+			},
+			"geometry": {
+				"coordinates": [-87.679028,41.967094],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Sunnyside Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "243"
+			},
+			"geometry": {
+				"coordinates": [-87.684781,41.963004],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ravenswood Ave & Irving Park Rd",
+				"description": "docks in service: 19",
+				"STATION_ID": "244"
+			},
+			"geometry": {
+				"coordinates": [-87.67393,41.95469],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clarendon Ave & Junior Ter",
+				"description": "docks in service: 23",
+				"STATION_ID": "245"
+			},
+			"geometry": {
+				"coordinates": [-87.649603,41.961004],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Belle Plaine Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "246"
+			},
+			"geometry": {
+				"coordinates": [-87.668835,41.956057],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Shore Dr & 55th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "247"
+			},
+			"geometry": {
+				"coordinates": [-87.580715,41.795212],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Woodlawn Ave & 55th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "248"
+			},
+			"geometry": {
+				"coordinates": [-87.596471,41.795264],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Montrose Harbor",
+				"description": "docks in service: 31",
+				"STATION_ID": "249"
+			},
+			"geometry": {
+				"coordinates": [-87.638181,41.963982],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Wellington Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "250"
+			},
+			"geometry": {
+				"coordinates": [-87.669807,41.936083],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clarendon Ave & Leland Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "251"
+			},
+			"geometry": {
+				"coordinates": [-87.650001,41.967968],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Greenwood Ave & 47th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "252"
+			},
+			"geometry": {
+				"coordinates": [-87.599383,41.809835],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Winthrop Ave & Lawrence Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "253"
+			},
+			"geometry": {
+				"coordinates": [-87.657659,41.968812],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Pine Grove Ave & Irving Park Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "254"
+			},
+			"geometry": {
+				"coordinates": [-87.648043,41.954383],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Indiana Ave & Roosevelt Rd",
+				"description": "docks in service: 39",
+				"STATION_ID": "255"
+			},
+			"geometry": {
+				"coordinates": [-87.623041,41.867888],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Sheridan Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "256"
+			},
+			"geometry": {
+				"coordinates": [-87.649993,41.952833],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Waveland Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "257"
+			},
+			"geometry": {
+				"coordinates": [-87.675278,41.948797],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Logan Blvd & Elston Ave",
+				"description": "docks in service: 27",
+				"STATION_ID": "258"
+			},
+			"geometry": {
+				"coordinates": [-87.684158,41.929465],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Francis Pl (Temp)",
+				"description": "docks in service: 15",
+				"STATION_ID": "259"
+			},
+			"geometry": {
+				"coordinates": [-87.69742280244827,41.91849115368695],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Milwaukee Ave",
+				"description": "docks in service: 35",
+				"STATION_ID": "260"
+			},
+			"geometry": {
+				"coordinates": [-87.707857,41.929567],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Hermitage Ave & Polk St",
+				"description": "docks in service: 15",
+				"STATION_ID": "261"
+			},
+			"geometry": {
+				"coordinates": [-87.669886,41.871514],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 37th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "262"
+			},
+			"geometry": {
+				"coordinates": [-87.64572,41.827059],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rhodes Ave & 32nd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "263"
+			},
+			"geometry": {
+				"coordinates": [-87.613533,41.836208],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stetson Ave & South Water St",
+				"description": "docks in service: 19",
+				"STATION_ID": "264"
+			},
+			"geometry": {
+				"coordinates": [-87.62232,41.886835],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & Oakwood Blvd",
+				"description": "docks in service: 15",
+				"STATION_ID": "265"
+			},
+			"geometry": {
+				"coordinates": [-87.6071,41.822985],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Park Ave & 47th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "267"
+			},
+			"geometry": {
+				"coordinates": [-87.591875,41.809443],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Shore Dr & North Blvd",
+				"description": "docks in service: 39",
+				"STATION_ID": "268"
+			},
+			"geometry": {
+				"coordinates": [-87.626804,41.911722],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stony Island Ave & 75th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "270"
+			},
+			"geometry": {
+				"coordinates": [-87.586882871,41.7586696704],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 43rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "271"
+			},
+			"geometry": {
+				"coordinates": [-87.606582,41.816499],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Indiana Ave & 31st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "272"
+			},
+			"geometry": {
+				"coordinates": [-87.621857,41.838842],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & 18th St",
+				"description": "docks in service: 23",
+				"STATION_ID": "273"
+			},
+			"geometry": {
+				"coordinates": [-87.62455,41.857813],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & 15th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "274"
+			},
+			"geometry": {
+				"coordinates": [-87.656625,41.861267],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & 13th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "275"
+			},
+			"geometry": {
+				"coordinates": [-87.666507,41.865234],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & North Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "276"
+			},
+			"geometry": {
+				"coordinates": [-87.6972,41.91044],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Grand Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "277"
+			},
+			"geometry": {
+				"coordinates": [-87.666611,41.891072],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wallace St & 35th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "278"
+			},
+			"geometry": {
+				"coordinates": [-87.64129,41.830629],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 35th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "279"
+			},
+			"geometry": {
+				"coordinates": [-87.647172,41.830661],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Morgan St & 31st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "280"
+			},
+			"geometry": {
+				"coordinates": [-87.65114,41.8378],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & 24th St",
+				"description": "docks in service: 7",
+				"STATION_ID": "281"
+			},
+			"geometry": {
+				"coordinates": [-87.685109,41.84847],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Maxwell St",
+				"description": "docks in service: 15",
+				"STATION_ID": "282"
+			},
+			"geometry": {
+				"coordinates": [-87.647071,41.864883],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "LaSalle St & Jackson Blvd",
+				"description": "docks in service: 35",
+				"STATION_ID": "283"
+			},
+			"geometry": {
+				"coordinates": [-87.631929,41.878166],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & Jackson Blvd",
+				"description": "docks in service: 23",
+				"STATION_ID": "284"
+			},
+			"geometry": {
+				"coordinates": [-87.62408,41.87785],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wood St & Hubbard St",
+				"description": "docks in service: 19",
+				"STATION_ID": "285"
+			},
+			"geometry": {
+				"coordinates": [-87.671473,41.889899],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Franklin St & Adams St (Temp)",
+				"description": "docks in service: 15",
+				"STATION_ID": "286"
+			},
+			"geometry": {
+				"coordinates": [-87.63550400733948,41.87943409140013],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Franklin St & Monroe St",
+				"description": "docks in service: 31",
+				"STATION_ID": "287"
+			},
+			"geometry": {
+				"coordinates": [-87.635185,41.880317],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & Armitage Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "288"
+			},
+			"geometry": {
+				"coordinates": [-87.643749,41.918084],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Concord Ln",
+				"description": "docks in service: 19",
+				"STATION_ID": "289"
+			},
+			"geometry": {
+				"coordinates": [-87.634656,41.912133],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Palmer Ct",
+				"description": "docks in service: 15",
+				"STATION_ID": "290"
+			},
+			"geometry": {
+				"coordinates": [-87.707322,41.921525],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wells St & Evergreen Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "291"
+			},
+			"geometry": {
+				"coordinates": [-87.63483,41.906724],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Clark St",
+				"description": "docks in service: 11",
+				"STATION_ID": "292"
+			},
+			"geometry": {
+				"coordinates": [-87.664199,41.957081],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Wilson Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "293"
+			},
+			"geometry": {
+				"coordinates": [-87.658139,41.965221],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Berwyn Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "294"
+			},
+			"geometry": {
+				"coordinates": [-87.659753,41.978353],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Argyle St",
+				"description": "docks in service: 19",
+				"STATION_ID": "295"
+			},
+			"geometry": {
+				"coordinates": [-87.65966,41.973815],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Belmont Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "296"
+			},
+			"geometry": {
+				"coordinates": [-87.645451,41.940106],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Paulina St & Montrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "297"
+			},
+			"geometry": {
+				"coordinates": [-87.671387,41.961507],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Belle Plaine Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "298"
+			},
+			"geometry": {
+				"coordinates": [-87.680293,41.95602],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Roscoe St",
+				"description": "docks in service: 15",
+				"STATION_ID": "299"
+			},
+			"geometry": {
+				"coordinates": [-87.64895,41.94367],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Barry Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "300"
+			},
+			"geometry": {
+				"coordinates": [-87.644095,41.937725],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Schiller St",
+				"description": "docks in service: 19",
+				"STATION_ID": "301"
+			},
+			"geometry": {
+				"coordinates": [-87.631501,41.907993],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Wrightwood Ave",
+				"description": "docks in service: 31",
+				"STATION_ID": "302"
+			},
+			"geometry": {
+				"coordinates": [-87.653833,41.928712],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Cornelia Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "303"
+			},
+			"geometry": {
+				"coordinates": [-87.646439,41.945529],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Waveland Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "304"
+			},
+			"geometry": {
+				"coordinates": [-87.648636,41.949074],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Division St",
+				"description": "docks in service: 23",
+				"STATION_ID": "305"
+			},
+			"geometry": {
+				"coordinates": [-87.687275,41.902893],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Buena Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "306"
+			},
+			"geometry": {
+				"coordinates": [-87.654966,41.958494],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Clybourn Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "307"
+			},
+			"geometry": {
+				"coordinates": [-87.663712,41.920771],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Seeley Ave & Roscoe St",
+				"description": "docks in service: 11",
+				"STATION_ID": "308"
+			},
+			"geometry": {
+				"coordinates": [-87.679618,41.943403],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Leavitt St & Armitage Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "309"
+			},
+			"geometry": {
+				"coordinates": [-87.682437,41.917805],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Charleston St",
+				"description": "docks in service: 11",
+				"STATION_ID": "310"
+			},
+			"geometry": {
+				"coordinates": [-87.677855,41.920082],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Leavitt St & Lawrence Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "311"
+			},
+			"geometry": {
+				"coordinates": [-87.684001,41.968885],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clarendon Ave & Gordon Ter",
+				"description": "docks in service: 15",
+				"STATION_ID": "312"
+			},
+			"geometry": {
+				"coordinates": [-87.649519,41.957879],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lakeview Ave & Fullerton Pkwy",
+				"description": "docks in service: 19",
+				"STATION_ID": "313"
+			},
+			"geometry": {
+				"coordinates": [-87.638973,41.925858],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ravenswood Ave & Berteau Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "314"
+			},
+			"geometry": {
+				"coordinates": [-87.673567,41.957921],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Elston Ave & Wabansia Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "315"
+			},
+			"geometry": {
+				"coordinates": [-87.664169,41.912919],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Sunnyside Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "316"
+			},
+			"geometry": {
+				"coordinates": [-87.679258,41.96325],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wood St & Taylor St",
+				"description": "docks in service: 23",
+				"STATION_ID": "317"
+			},
+			"geometry": {
+				"coordinates": [-87.671045,41.869154],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Southport Ave & Irving Park Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "318"
+			},
+			"geometry": {
+				"coordinates": [-87.664358,41.954177],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Greenview Ave & Diversey Pkwy",
+				"description": "docks in service: 15",
+				"STATION_ID": "319"
+			},
+			"geometry": {
+				"coordinates": [-87.66593635082245,41.93258963429789],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Loomis St & Lexington St",
+				"description": "docks in service: 19",
+				"STATION_ID": "320"
+			},
+			"geometry": {
+				"coordinates": [-87.661501,41.872187],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & 9th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "321"
+			},
+			"geometry": {
+				"coordinates": [-87.625734,41.870769],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kimbark Ave & 53rd St",
+				"description": "docks in service: 19",
+				"STATION_ID": "322"
+			},
+			"geometry": {
+				"coordinates": [-87.594747,41.799568],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Lawrence Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "323"
+			},
+			"geometry": {
+				"coordinates": [-87.654691,41.969517],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stockton Dr & Wrightwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "324"
+			},
+			"geometry": {
+				"coordinates": [-87.638742,41.93132],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Winnemac Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "325"
+			},
+			"geometry": {
+				"coordinates": [-87.66778,41.97334],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Leland Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "326"
+			},
+			"geometry": {
+				"coordinates": [-87.667429,41.967096],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Ave & Webster Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "327"
+			},
+			"geometry": {
+				"coordinates": [-87.653818,41.92154],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ellis Ave & 58th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "328"
+			},
+			"geometry": {
+				"coordinates": [-87.601334,41.788746],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Shore Dr & Diversey Pkwy",
+				"description": "docks in service: 23",
+				"STATION_ID": "329"
+			},
+			"geometry": {
+				"coordinates": [-87.636427,41.932588],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Addison St",
+				"description": "docks in service: 19",
+				"STATION_ID": "330"
+			},
+			"geometry": {
+				"coordinates": [-87.673308,41.946176],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Clybourn Ave",
+				"description": "docks in service: 27",
+				"STATION_ID": "331"
+			},
+			"geometry": {
+				"coordinates": [-87.648128,41.909668],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Burling St (Halsted) & Diversey Pkwy (Temp)",
+				"description": "docks in service: 19",
+				"STATION_ID": "332"
+			},
+			"geometry": {
+				"coordinates": [-87.64776,41.93314],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Blackhawk St",
+				"description": "docks in service: 15",
+				"STATION_ID": "333"
+			},
+			"geometry": {
+				"coordinates": [-87.667252,41.907066],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Shore Dr & Belmont Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "334"
+			},
+			"geometry": {
+				"coordinates": [-87.639192,41.940775],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Calumet Ave & 35th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "335"
+			},
+			"geometry": {
+				"coordinates": [-87.618034,41.831379],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 47th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "336"
+			},
+			"geometry": {
+				"coordinates": [-87.606755,41.809855],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Chicago Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "337"
+			},
+			"geometry": {
+				"coordinates": [-87.63089,41.89675],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Calumet Ave & 18th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "338"
+			},
+			"geometry": {
+				"coordinates": [-87.619407,41.857611],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Emerald Ave & 31st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "339"
+			},
+			"geometry": {
+				"coordinates": [-87.645143,41.838198],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Wrightwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "340"
+			},
+			"geometry": {
+				"coordinates": [-87.643118,41.929546],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Adler Planetarium",
+				"description": "docks in service: 39",
+				"STATION_ID": "341"
+			},
+			"geometry": {
+				"coordinates": [-87.607267,41.866095],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wolcott Ave & Polk St",
+				"description": "docks in service: 23",
+				"STATION_ID": "342"
+			},
+			"geometry": {
+				"coordinates": [-87.673688,41.871262],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & Wrightwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "343"
+			},
+			"geometry": {
+				"coordinates": [-87.658971,41.928887],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ravenswood Ave & Lawrence Ave",
+				"description": "docks in service: 47",
+				"STATION_ID": "344"
+			},
+			"geometry": {
+				"coordinates": [-87.674237,41.96909],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Park Ave & 56th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "345"
+			},
+			"geometry": {
+				"coordinates": [-87.587782,41.793242],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ada St & Washington Blvd",
+				"description": "docks in service: 15",
+				"STATION_ID": "346"
+			},
+			"geometry": {
+				"coordinates": [-87.661206,41.88283],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Grace St",
+				"description": "docks in service: 15",
+				"STATION_ID": "347"
+			},
+			"geometry": {
+				"coordinates": [-87.6687,41.950687],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & 21st St",
+				"description": "docks in service: 15",
+				"STATION_ID": "348"
+			},
+			"geometry": {
+				"coordinates": [-87.69574239850043,41.8538040657915],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & Wrightwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "349"
+			},
+			"geometry": {
+				"coordinates": [-87.649077,41.929143],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Chicago Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "350"
+			},
+			"geometry": {
+				"coordinates": [-87.667747,41.895966],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 51st St",
+				"description": "docks in service: 15",
+				"STATION_ID": "351"
+			},
+			"geometry": {
+				"coordinates": [-87.606615,41.803038],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Jeffery Blvd & 67th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "352"
+			},
+			"geometry": {
+				"coordinates": [-87.5771428255,41.77351755125],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Touhy Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "353"
+			},
+			"geometry": {
+				"coordinates": [-87.6743671152,42.01256011541],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Greenleaf Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "354"
+			},
+			"geometry": {
+				"coordinates": [-87.6624120948,42.01058656284],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "South Shore Dr & 67th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "355"
+			},
+			"geometry": {
+				"coordinates": [-87.567514,41.773643],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stony Island Ave & 71st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "356"
+			},
+			"geometry": {
+				"coordinates": [-87.5864608775,41.7664929373],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & Division St",
+				"description": "docks in service: 23",
+				"STATION_ID": "359"
+			},
+			"geometry": {
+				"coordinates": [-87.6433534936,41.90348607004],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Larrabee St & Oak St",
+				"description": "docks in service: 19",
+				"STATION_ID": "364"
+			},
+			"geometry": {
+				"coordinates": [-87.6429854676,41.90021949323],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & North Branch St",
+				"description": "docks in service: 15",
+				"STATION_ID": "365"
+			},
+			"geometry": {
+				"coordinates": [-87.6484798752,41.89936843921],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Loomis St & Archer Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "366"
+			},
+			"geometry": {
+				"coordinates": [-87.6574349533,41.84163253965],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & 35th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "367"
+			},
+			"geometry": {
+				"coordinates": [-87.6559759116,41.83069611252],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Archer Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "368"
+			},
+			"geometry": {
+				"coordinates": [-87.6656098589,41.83920868403],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wood St & 35th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "369"
+			},
+			"geometry": {
+				"coordinates": [-87.6702983089,41.83010465416],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Calumet Ave & 21st St",
+				"description": "docks in service: 15",
+				"STATION_ID": "370"
+			},
+			"geometry": {
+				"coordinates": [-87.6191537415,41.85418424947],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Chicago Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "373"
+			},
+			"geometry": {
+				"coordinates": [-87.7061278837,41.89546530305],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Walton St",
+				"description": "docks in service: 23",
+				"STATION_ID": "374"
+			},
+			"geometry": {
+				"coordinates": [-87.6865960164,41.89841768945],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sacramento Blvd & Franklin Blvd",
+				"description": "docks in service: 11",
+				"STATION_ID": "375"
+			},
+			"geometry": {
+				"coordinates": [-87.70260751247406,41.89046879243862],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Artesian Ave & Hubbard St",
+				"description": "docks in service: 35",
+				"STATION_ID": "376"
+			},
+			"geometry": {
+				"coordinates": [-87.6882193648,41.88949181977],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Lake St",
+				"description": "docks in service: 15",
+				"STATION_ID": "377"
+			},
+			"geometry": {
+				"coordinates": [-87.7063037436,41.88460328501],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "378"
+			},
+			"geometry": {
+				"coordinates": [-87.6962981368,41.88445395657],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Monroe St",
+				"description": "docks in service: 15",
+				"STATION_ID": "381"
+			},
+			"geometry": {
+				"coordinates": [-87.686112808,41.8797877089],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Congress Pkwy",
+				"description": "docks in service: 19",
+				"STATION_ID": "382"
+			},
+			"geometry": {
+				"coordinates": [-87.6864452757,41.87474885079],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Paulina St & Flournoy St",
+				"description": "docks in service: 31",
+				"STATION_ID": "383"
+			},
+			"geometry": {
+				"coordinates": [-87.66913,41.87295],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 51st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "384"
+			},
+			"geometry": {
+				"coordinates": [-87.645213904,41.80183164049],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Princeton Ave & Garfield Blvd",
+				"description": "docks in service: 11",
+				"STATION_ID": "385"
+			},
+			"geometry": {
+				"coordinates": [-87.633124,41.794982],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 56th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "386"
+			},
+			"geometry": {
+				"coordinates": [-87.6449900565,41.79292964599],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 63rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "388"
+			},
+			"geometry": {
+				"coordinates": [-87.6446208145,41.77938114228],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wentworth Ave & 63rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "390"
+			},
+			"geometry": {
+				"coordinates": [-87.6297463052,41.78007963264],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 69th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "391"
+			},
+			"geometry": {
+				"coordinates": [-87.6446135779,41.76906172032],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Perry Ave & 69th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "392"
+			},
+			"geometry": {
+				"coordinates": [-87.6281959291,41.76929308995],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Calumet Ave & 71st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "393"
+			},
+			"geometry": {
+				"coordinates": [-87.616917925,41.76550800581],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & 9th St (AMLI)",
+				"description": "docks in service: 15",
+				"STATION_ID": "394"
+			},
+			"geometry": {
+				"coordinates": [-87.631246,41.870816],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Jeffery Blvd & 76th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "395"
+			},
+			"geometry": {
+				"coordinates": [-87.5758393587,41.75712006802],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Yates Blvd & 75th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "396"
+			},
+			"geometry": {
+				"coordinates": [-87.56644,41.758768],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rainbow Beach",
+				"description": "docks in service: 15",
+				"STATION_ID": "398"
+			},
+			"geometry": {
+				"coordinates": [-87.54938625,41.75787144829],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "South Shore Dr & 74th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "399"
+			},
+			"geometry": {
+				"coordinates": [-87.55927465,41.76218896038],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 71st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "400"
+			},
+			"geometry": {
+				"coordinates": [-87.604959713,41.76571903697],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Shields Ave & 28th Pl",
+				"description": "docks in service: 11",
+				"STATION_ID": "401"
+			},
+			"geometry": {
+				"coordinates": [-87.635491,41.842733],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Shields Ave & 31st St",
+				"description": "docks in service: 15",
+				"STATION_ID": "402"
+			},
+			"geometry": {
+				"coordinates": [-87.635406,41.838464],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wentworth Ave & 33rd St",
+				"description": "docks in service: 15",
+				"STATION_ID": "403"
+			},
+			"geometry": {
+				"coordinates": [-87.6318229814,41.83452988563],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wentworth Ave & 35th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "405"
+			},
+			"geometry": {
+				"coordinates": [-87.632504,41.830777],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Park Ave & 35th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "406"
+			},
+			"geometry": {
+				"coordinates": [-87.6087991946,41.83127423549],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & Pershing Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "407"
+			},
+			"geometry": {
+				"coordinates": [-87.6265680185,41.82301523798],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Union Ave & Root St",
+				"description": "docks in service: 11",
+				"STATION_ID": "408"
+			},
+			"geometry": {
+				"coordinates": [-87.643278,41.819102],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Shields Ave & 43rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "409"
+			},
+			"geometry": {
+				"coordinates": [-87.6348193497,41.81620767856],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Prairie Ave & 43rd St",
+				"description": "docks in service: 15",
+				"STATION_ID": "410"
+			},
+			"geometry": {
+				"coordinates": [-87.6194124619,41.81665889302],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 47th Pl",
+				"description": "docks in service: 11",
+				"STATION_ID": "411"
+			},
+			"geometry": {
+				"coordinates": [-87.6456165545,41.80813391481],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Princeton Ave & 47th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "412"
+			},
+			"geometry": {
+				"coordinates": [-87.633449288,41.80931770924],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Woodlawn Ave & Lake Park Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "413"
+			},
+			"geometry": {
+				"coordinates": [-87.5970051479,41.81409271048],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Canal St & Taylor St",
+				"description": "docks in service: 15",
+				"STATION_ID": "414"
+			},
+			"geometry": {
+				"coordinates": [-87.639474,41.870257],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Calumet Ave & 51st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "415"
+			},
+			"geometry": {
+				"coordinates": [-87.6180535802,41.80229465088],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dorchester Ave & 49th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "416"
+			},
+			"geometry": {
+				"coordinates": [-87.592464,41.805772],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cornell Ave & Hyde Park Blvd",
+				"description": "docks in service: 19",
+				"STATION_ID": "417"
+			},
+			"geometry": {
+				"coordinates": [-87.586924,41.802406],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ellis Ave & 53rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "418"
+			},
+			"geometry": {
+				"coordinates": [-87.6009581145,41.79933626261],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lake Park Ave & 53rd St",
+				"description": "docks in service: 15",
+				"STATION_ID": "419"
+			},
+			"geometry": {
+				"coordinates": [-87.5864498959,41.79949429373],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ellis Ave & 55th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "420"
+			},
+			"geometry": {
+				"coordinates": [-87.6014497734,41.79430062054],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MLK Jr Dr & 56th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "421"
+			},
+			"geometry": {
+				"coordinates": [-87.6158532619,41.79342945658],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "DuSable Museum",
+				"description": "docks in service: 11",
+				"STATION_ID": "422"
+			},
+			"geometry": {
+				"coordinates": [-87.6078521774,41.79156801058],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "University Ave & 57th St",
+				"description": "docks in service: 31",
+				"STATION_ID": "423"
+			},
+			"geometry": {
+				"coordinates": [-87.599861,41.791478],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Museum of Science and Industry",
+				"description": "docks in service: 27",
+				"STATION_ID": "424"
+			},
+			"geometry": {
+				"coordinates": [-87.583945009,41.79172820953],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Harper Ave & 59th St",
+				"description": "docks in service: 15",
+				"STATION_ID": "425"
+			},
+			"geometry": {
+				"coordinates": [-87.5883151702,41.78794281287],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ellis Ave & 60th St",
+				"description": "docks in service: 19",
+				"STATION_ID": "426"
+			},
+			"geometry": {
+				"coordinates": [-87.6010727606,41.78509714636],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 63rd St",
+				"description": "docks in service: 15",
+				"STATION_ID": "427"
+			},
+			"geometry": {
+				"coordinates": [-87.606112388,41.78059901484],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dorchester Ave & 63rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "428"
+			},
+			"geometry": {
+				"coordinates": [-87.5914159893,41.7804056457],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 67th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "429"
+			},
+			"geometry": {
+				"coordinates": [-87.60563486,41.77372095205],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MLK Jr Dr & 63rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "430"
+			},
+			"geometry": {
+				"coordinates": [-87.6159428567,41.78008063659],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Eberhart Ave & 61st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "431"
+			},
+			"geometry": {
+				"coordinates": [-87.6133078304,41.78414169317],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Lunt Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "432"
+			},
+			"geometry": {
+				"coordinates": [-87.67419,42.009074],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Harrison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "433"
+			},
+			"geometry": {
+				"coordinates": [-87.7048707493,41.87359967462],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ogden Ave & Roosevelt Rd",
+				"description": "docks in service: 19",
+				"STATION_ID": "434"
+			},
+			"geometry": {
+				"coordinates": [-87.68469707,41.86650148316],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Roosevelt Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "435"
+			},
+			"geometry": {
+				"coordinates": [-87.7064961757,41.86649278172],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Fairfield Ave & Roosevelt Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "436"
+			},
+			"geometry": {
+				"coordinates": [-87.694521,41.866624],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Washtenaw Ave & Ogden Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "437"
+			},
+			"geometry": {
+				"coordinates": [-87.69345045089722,41.86193049278259],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Park Ave & Ogden Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "438"
+			},
+			"geometry": {
+				"coordinates": [-87.7154058381,41.85420431327],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & 21st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "439"
+			},
+			"geometry": {
+				"coordinates": [-87.7050730318,41.85353363213],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Park Ave & 24th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "440"
+			},
+			"geometry": {
+				"coordinates": [-87.715068,41.8481],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & 24th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "441"
+			},
+			"geometry": {
+				"coordinates": [-87.7054137458,41.84819094491],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & 23rd Pl",
+				"description": "docks in service: 11",
+				"STATION_ID": "442"
+			},
+			"geometry": {
+				"coordinates": [-87.6951398068,41.84910969176],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Millard Ave & 26th St",
+				"description": "docks in service: 7",
+				"STATION_ID": "443"
+			},
+			"geometry": {
+				"coordinates": [-87.7159103081,41.84456684891],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Albany Ave & 26th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "444"
+			},
+			"geometry": {
+				"coordinates": [-87.7020130128,41.84447501366],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & 26th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "445"
+			},
+			"geometry": {
+				"coordinates": [-87.6952959227,41.84404003127],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & 28th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "446"
+			},
+			"geometry": {
+				"coordinates": [-87.6851314409,41.84151770807],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Glenwood Ave & Morse Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "447"
+			},
+			"geometry": {
+				"coordinates": [-87.6655023944,42.00797192287],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Warren Park East",
+				"description": "docks in service: 11",
+				"STATION_ID": "448"
+			},
+			"geometry": {
+				"coordinates": [-87.6806661451,42.00454962194],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Columbia Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "449"
+			},
+			"geometry": {
+				"coordinates": [-87.6724024047,42.00445062934],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Warren Park West",
+				"description": "docks in service: 11",
+				"STATION_ID": "450"
+			},
+			"geometry": {
+				"coordinates": [-87.688829,42.001785],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Loyola Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "451"
+			},
+			"geometry": {
+				"coordinates": [-87.6611982433,42.00104377979],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Granville Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "452"
+			},
+			"geometry": {
+				"coordinates": [-87.689438282,41.99416136902],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Schreiber Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "453"
+			},
+			"geometry": {
+				"coordinates": [-87.6713773393,41.99925182186],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Granville Ave",
+				"description": "docks in service: 23",
+				"STATION_ID": "454"
+			},
+			"geometry": {
+				"coordinates": [-87.6602845349,41.9947796884],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Maplewood Ave & Peterson Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "455"
+			},
+			"geometry": {
+				"coordinates": [-87.6933696402,41.99023602867],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "2112 W Peterson Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "456"
+			},
+			"geometry": {
+				"coordinates": [-87.683593,41.991178],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Elmdale Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "457"
+			},
+			"geometry": {
+				"coordinates": [-87.66983360052109,41.99051755556753],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Thorndale Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "458"
+			},
+			"geometry": {
+				"coordinates": [-87.6601406209,41.98974251144],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lakefront Trail & Bryn Mawr Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "459"
+			},
+			"geometry": {
+				"coordinates": [-87.6523104689,41.98403669612],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Bryn Mawr Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "460"
+			},
+			"geometry": {
+				"coordinates": [-87.669154,41.983593],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Broadway & Ridge Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "461"
+			},
+			"geometry": {
+				"coordinates": [-87.6602738295,41.9840446107],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Winchester (Ravenswood) Ave & Balmoral Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "462"
+			},
+			"geometry": {
+				"coordinates": [-87.67753,41.979762],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Berwyn Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "463"
+			},
+			"geometry": {
+				"coordinates": [-87.6680471047,41.9779966544],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Foster Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "464"
+			},
+			"geometry": {
+				"coordinates": [-87.6794590387,41.97561480459],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Marine Dr & Ainslie St",
+				"description": "docks in service: 23",
+				"STATION_ID": "465"
+			},
+			"geometry": {
+				"coordinates": [-87.650154,41.9716],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ridge Blvd & Touhy Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "466"
+			},
+			"geometry": {
+				"coordinates": [-87.6829126443,42.01213227742],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Lunt Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "467"
+			},
+			"geometry": {
+				"coordinates": [-87.6904922389,42.0085943972],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Budlong Woods Library",
+				"description": "docks in service: 11",
+				"STATION_ID": "468"
+			},
+			"geometry": {
+				"coordinates": [-87.6964225611,41.98366470886],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "St. Louis Ave & Balmoral Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "469"
+			},
+			"geometry": {
+				"coordinates": [-87.7161149615,41.98039423475],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Foster Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "470"
+			},
+			"geometry": {
+				"coordinates": [-87.709261,41.975672],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Francisco Ave & Foster Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "471"
+			},
+			"geometry": {
+				"coordinates": [-87.7014194389,41.97563272521],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Ave & Winona St",
+				"description": "docks in service: 15",
+				"STATION_ID": "472"
+			},
+			"geometry": {
+				"coordinates": [-87.6925025594,41.97491129677],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Christiana Ave & Lawrence Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "474"
+			},
+			"geometry": {
+				"coordinates": [-87.7118306675,41.96835449363],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Washtenaw Ave & Lawrence Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "475"
+			},
+			"geometry": {
+				"coordinates": [-87.696027,41.968987],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Leland Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "476"
+			},
+			"geometry": {
+				"coordinates": [-87.7080519806,41.96668636205],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Manor Ave & Leland Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "477"
+			},
+			"geometry": {
+				"coordinates": [-87.700825,41.965875],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rockwell St & Eastwood Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "478"
+			},
+			"geometry": {
+				"coordinates": [-87.6936384935,41.96590013976],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Drake Ave & Montrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "479"
+			},
+			"geometry": {
+				"coordinates": [-87.7165690733,41.96115407569],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Albany Ave & Montrose Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "480"
+			},
+			"geometry": {
+				"coordinates": [-87.705866,41.961041],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Montrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "481"
+			},
+			"geometry": {
+				"coordinates": [-87.695439,41.961068],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Campbell Ave & Montrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "482"
+			},
+			"geometry": {
+				"coordinates": [-87.6911650414,41.96152593287],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Avondale Ave & Irving Park Rd",
+				"description": "docks in service: 19",
+				"STATION_ID": "483"
+			},
+			"geometry": {
+				"coordinates": [-87.732002,41.953393],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Monticello Ave & Irving Park Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "484"
+			},
+			"geometry": {
+				"coordinates": [-87.7191281797,41.95400483876],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sawyer Ave & Irving Park Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "485"
+			},
+			"geometry": {
+				"coordinates": [-87.7093107999,41.95358617895],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Oakley Ave & Irving Park Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "486"
+			},
+			"geometry": {
+				"coordinates": [-87.6860796243,41.95434085219],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Byron St",
+				"description": "docks in service: 19",
+				"STATION_ID": "487"
+			},
+			"geometry": {
+				"coordinates": [-87.698051113,41.95216219326],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Pulaski Rd & Eddy St (Temp)",
+				"description": "docks in service: 11",
+				"STATION_ID": "488"
+			},
+			"geometry": {
+				"coordinates": [-87.731023,41.946264],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Drake Ave & Addison St",
+				"description": "docks in service: 15",
+				"STATION_ID": "489"
+			},
+			"geometry": {
+				"coordinates": [-87.717582,41.947326],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Troy St & Elston Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "490"
+			},
+			"geometry": {
+				"coordinates": [-87.7066499009,41.94524356848],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Talman Ave & Addison St",
+				"description": "docks in service: 15",
+				"STATION_ID": "491"
+			},
+			"geometry": {
+				"coordinates": [-87.694614758,41.9466358306],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Leavitt St & Addison St",
+				"description": "docks in service: 15",
+				"STATION_ID": "492"
+			},
+			"geometry": {
+				"coordinates": [-87.683359,41.946655],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Roscoe St",
+				"description": "docks in service: 11",
+				"STATION_ID": "493"
+			},
+			"geometry": {
+				"coordinates": [-87.687288,41.943034],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kedzie Ave & Bryn Mawr Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "494"
+			},
+			"geometry": {
+				"coordinates": [-87.7089225202,41.98239708485],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Keystone Ave & Montrose Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "495"
+			},
+			"geometry": {
+				"coordinates": [-87.7289701012,41.96110801623],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Avers Ave & Belmont Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "496"
+			},
+			"geometry": {
+				"coordinates": [-87.723574,41.939408],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kimball Ave & Belmont Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "497"
+			},
+			"geometry": {
+				"coordinates": [-87.711561,41.939398],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Fletcher St",
+				"description": "docks in service: 19",
+				"STATION_ID": "498"
+			},
+			"geometry": {
+				"coordinates": [-87.698007756,41.93842879148],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kosciuszko Park",
+				"description": "docks in service: 15",
+				"STATION_ID": "499"
+			},
+			"geometry": {
+				"coordinates": [-87.7237773635,41.93058537138],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Park Ave & Elbridge Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "500"
+			},
+			"geometry": {
+				"coordinates": [-87.7168892935,41.93533728263],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Richmond St & Diversey Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "501"
+			},
+			"geometry": {
+				"coordinates": [-87.7011951301,41.93190196886],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Altgeld St",
+				"description": "docks in service: 15",
+				"STATION_ID": "502"
+			},
+			"geometry": {
+				"coordinates": [-87.697668,41.92669],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Drake Ave & Fullerton Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "503"
+			},
+			"geometry": {
+				"coordinates": [-87.7154410355,41.924398819],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Campbell Ave & Fullerton Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "504"
+			},
+			"geometry": {
+				"coordinates": [-87.6893070063,41.92463247165],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Winchester Ave & Elston Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "505"
+			},
+			"geometry": {
+				"coordinates": [-87.6764600747,41.92409085038],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Spaulding Ave & Armitage Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "506"
+			},
+			"geometry": {
+				"coordinates": [-87.71022096276283,41.917108034789315],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Humboldt Blvd & Armitage Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "507"
+			},
+			"geometry": {
+				"coordinates": [-87.7018089555,41.91751339399],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Park Ave & North Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "508"
+			},
+			"geometry": {
+				"coordinates": [-87.7166319516,41.90965687563],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Troy St & North Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "509"
+			},
+			"geometry": {
+				"coordinates": [-87.7052804871,41.90976930169],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Spaulding Ave & Division St",
+				"description": "docks in service: 11",
+				"STATION_ID": "510"
+			},
+			"geometry": {
+				"coordinates": [-87.709219571,41.90270659438],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Albany Ave & Bloomingdale Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "511"
+			},
+			"geometry": {
+				"coordinates": [-87.705126462,41.91402671273],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ridge Blvd & Howard St",
+				"description": "docks in service: 11",
+				"STATION_ID": "514"
+			},
+			"geometry": {
+				"coordinates": [-87.68452,42.019276],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Paulina St & Howard St",
+				"description": "docks in service: 19",
+				"STATION_ID": "515"
+			},
+			"geometry": {
+				"coordinates": [-87.673573,42.019159],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clark St & Jarvis Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "517"
+			},
+			"geometry": {
+				"coordinates": [-87.675005,42.015963],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Conservatory Dr & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "518"
+			},
+			"geometry": {
+				"coordinates": [-87.716866,41.885502],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wolcott Ave & Fargo Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "519"
+			},
+			"geometry": {
+				"coordinates": [-87.677725,42.016977],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Greenview Ave & Jarvis Ave",
+				"description": "docks in service: 19",
+				"STATION_ID": "520"
+			},
+			"geometry": {
+				"coordinates": [-87.66857,42.015962],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Bosworth Ave & Howard St",
+				"description": "docks in service: 11",
+				"STATION_ID": "522"
+			},
+			"geometry": {
+				"coordinates": [-87.669563,42.019537],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Eastlake Ter & Rogers Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "523"
+			},
+			"geometry": {
+				"coordinates": [-87.66505792737007,42.0208872805206],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Austin Blvd & Chicago Ave",
+				"description": "docks in service: 7",
+				"STATION_ID": "524"
+			},
+			"geometry": {
+				"coordinates": [-87.774704,41.894887],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Glenwood Ave & Touhy Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "525"
+			},
+			"geometry": {
+				"coordinates": [-87.666058,42.012701],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Oakley Ave & Touhy Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "526"
+			},
+			"geometry": {
+				"coordinates": [-87.688243,42.012342],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Ave & Howard St",
+				"description": "docks in service: 15",
+				"STATION_ID": "527"
+			},
+			"geometry": {
+				"coordinates": [-87.690048,42.018901],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Pulaski Rd & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "528"
+			},
+			"geometry": {
+				"coordinates": [-87.726491,41.885409],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cicero Ave & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "529"
+			},
+			"geometry": {
+				"coordinates": [-87.745261,41.886841],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Laramie Ave & Kinzie St",
+				"description": "docks in service: 11",
+				"STATION_ID": "530"
+			},
+			"geometry": {
+				"coordinates": [-87.755527,41.887832],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Ave & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "531"
+			},
+			"geometry": {
+				"coordinates": [-87.765469,41.887664],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Austin Blvd & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "532"
+			},
+			"geometry": {
+				"coordinates": [-87.774446,41.887919],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Park Blvd & 5th Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "533"
+			},
+			"geometry": {
+				"coordinates": [-87.71547,41.875679],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Karlov Ave & Madison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "534"
+			},
+			"geometry": {
+				"coordinates": [-87.727907,41.88085],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Pulaski Rd & Congress Pkwy",
+				"description": "docks in service: 11",
+				"STATION_ID": "535"
+			},
+			"geometry": {
+				"coordinates": [-87.725704,41.874325],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kostner Ave & Lake St",
+				"description": "docks in service: 11",
+				"STATION_ID": "536"
+			},
+			"geometry": {
+				"coordinates": [-87.73541,41.885928],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kenton Ave & Madison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "537"
+			},
+			"geometry": {
+				"coordinates": [-87.741018,41.880708],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cicero Ave & Flournoy St",
+				"description": "docks in service: 11",
+				"STATION_ID": "538"
+			},
+			"geometry": {
+				"coordinates": [-87.746619,41.872131],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cicero Ave & Quincy St",
+				"description": "docks in service: 11",
+				"STATION_ID": "539"
+			},
+			"geometry": {
+				"coordinates": [-87.745405,41.877613],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Laramie Ave & Madison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "540"
+			},
+			"geometry": {
+				"coordinates": [-87.755337,41.880207],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Ave & Harrison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "541"
+			},
+			"geometry": {
+				"coordinates": [-87.764499,41.872993],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Ave & Madison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "542"
+			},
+			"geometry": {
+				"coordinates": [-87.763238,41.880121],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Laramie Ave & Gladys Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "543"
+			},
+			"geometry": {
+				"coordinates": [-87.755285,41.875806],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Austin Blvd & Madison St",
+				"description": "docks in service: 11",
+				"STATION_ID": "544"
+			},
+			"geometry": {
+				"coordinates": [-87.774453,41.880281],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kostner Ave & Adams St",
+				"description": "docks in service: 11",
+				"STATION_ID": "545"
+			},
+			"geometry": {
+				"coordinates": [-87.735737,41.877917],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & Pershing Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "546"
+			},
+			"geometry": {
+				"coordinates": [-87.676597,41.823192],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Pershing Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "547"
+			},
+			"geometry": {
+				"coordinates": [-87.665577,41.823465],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Morgan St & Pershing Rd",
+				"description": "docks in service: 7",
+				"STATION_ID": "548"
+			},
+			"geometry": {
+				"coordinates": [-87.650931,41.823613],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Marshfield Ave & 44th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "549"
+			},
+			"geometry": {
+				"coordinates": [-87.666589,41.813996],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central Ave & Chicago Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "550"
+			},
+			"geometry": {
+				"coordinates": [-87.764902,41.894958],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Hoyne Ave & 47th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "551"
+			},
+			"geometry": {
+				"coordinates": [-87.67718,41.808227],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & McDowell Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "552"
+			},
+			"geometry": {
+				"coordinates": [-87.66454,41.80887],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Elizabeth St & 47th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "553"
+			},
+			"geometry": {
+				"coordinates": [-87.656526,41.80839],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & 51st St",
+				"description": "docks in service: 7",
+				"STATION_ID": "554"
+			},
+			"geometry": {
+				"coordinates": [-87.674684,41.800908],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & 50th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "555"
+			},
+			"geometry": {
+				"coordinates": [-87.664699,41.803023],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Throop St & 52nd St",
+				"description": "docks in service: 7",
+				"STATION_ID": "556"
+			},
+			"geometry": {
+				"coordinates": [-87.657195,41.799659],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Seeley Ave & Garfield Blvd",
+				"description": "docks in service: 11",
+				"STATION_ID": "557"
+			},
+			"geometry": {
+				"coordinates": [-87.675478,41.794087],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & Garfield Blvd",
+				"description": "docks in service: 11",
+				"STATION_ID": "558"
+			},
+			"geometry": {
+				"coordinates": [-87.664429,41.792822],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & Garfield Blvd",
+				"description": "docks in service: 11",
+				"STATION_ID": "559"
+			},
+			"geometry": {
+				"coordinates": [-87.655073,41.794228],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Marshfield Ave & 59th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "560"
+			},
+			"geometry": {
+				"coordinates": [-87.666215,41.786833],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Damen Ave & 59th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "561"
+			},
+			"geometry": {
+				"coordinates": [-87.674167,41.78602],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & 61st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "562"
+			},
+			"geometry": {
+				"coordinates": [-87.654372,41.783189],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & 63rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "563"
+			},
+			"geometry": {
+				"coordinates": [-87.664843,41.779374],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Racine Ave & 65th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "564"
+			},
+			"geometry": {
+				"coordinates": [-87.654308,41.775393],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & 66th St",
+				"description": "docks in service: 7",
+				"STATION_ID": "565"
+			},
+			"geometry": {
+				"coordinates": [-87.663815,41.774074],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashland Ave & 69th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "566"
+			},
+			"geometry": {
+				"coordinates": [-87.664069,41.768726],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "May St & 69th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "567"
+			},
+			"geometry": {
+				"coordinates": [-87.652934,41.768938],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Vincennes Ave & 75th St",
+				"description": "docks in service: 7",
+				"STATION_ID": "568"
+			},
+			"geometry": {
+				"coordinates": [-87.63121,41.75797],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Woodlawn Ave & 75th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "569"
+			},
+			"geometry": {
+				"coordinates": [-87.595751,41.75916],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Evans Ave & 75th St",
+				"description": "docks in service: 7",
+				"STATION_ID": "570"
+			},
+			"geometry": {
+				"coordinates": [-87.60641,41.75849],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Vernon Ave & 75th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "571"
+			},
+			"geometry": {
+				"coordinates": [-87.614138,41.758361],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & 76th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "572"
+			},
+			"geometry": {
+				"coordinates": [-87.624621,41.756971],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "State St & 79th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "573"
+			},
+			"geometry": {
+				"coordinates": [-87.624424,41.750794],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Vernon Ave & 79th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "574"
+			},
+			"geometry": {
+				"coordinates": [-87.61379,41.75094],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 78th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "575"
+			},
+			"geometry": {
+				"coordinates": [-87.605026,41.753174],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Greenwood Ave & 79th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "576"
+			},
+			"geometry": {
+				"coordinates": [-87.597552,41.751294],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stony Island Ave & South Chicago Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "577"
+			},
+			"geometry": {
+				"coordinates": [-87.585337,41.751173],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Bennett Ave & 79th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "578"
+			},
+			"geometry": {
+				"coordinates": [-87.578496,41.751785],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Phillips Ave & 79th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "579"
+			},
+			"geometry": {
+				"coordinates": [-87.565211,41.75182],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Exchange Ave & 79th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "580"
+			},
+			"geometry": {
+				"coordinates": [-87.552812,41.751731],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Commercial Ave & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "581"
+			},
+			"geometry": {
+				"coordinates": [-87.551208,41.744615],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Phillips Ave & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "582"
+			},
+			"geometry": {
+				"coordinates": [-87.56506,41.744531],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Stony Island Ave & 82nd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "583"
+			},
+			"geometry": {
+				"coordinates": [-87.586005,41.746559],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ellis Ave & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "584"
+			},
+			"geometry": {
+				"coordinates": [-87.599034,41.744123],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cottage Grove Ave & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "585"
+			},
+			"geometry": {
+				"coordinates": [-87.604836,41.743441],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MLK Jr Dr & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "586"
+			},
+			"geometry": {
+				"coordinates": [-87.6148,41.743116],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "587"
+			},
+			"geometry": {
+				"coordinates": [-87.622849,41.743316],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "South Chicago Ave & 83rd St",
+				"description": "docks in service: 11",
+				"STATION_ID": "588"
+			},
+			"geometry": {
+				"coordinates": [-87.575225,41.743921],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Milwaukee Ave & Cuyler Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "589"
+			},
+			"geometry": {
+				"coordinates": [-87.749594,41.954468],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kilbourn Ave & Irving Park Rd",
+				"description": "docks in service: 11",
+				"STATION_ID": "590"
+			},
+			"geometry": {
+				"coordinates": [-87.740569,41.953733],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kilbourn Ave & Milwaukee Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "591"
+			},
+			"geometry": {
+				"coordinates": [-87.74002,41.948818],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Knox Ave & Montrose Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "592"
+			},
+			"geometry": {
+				"coordinates": [-87.745359,41.960631],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Halsted St & 59th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "593"
+			},
+			"geometry": {
+				"coordinates": [-87.644874,41.787539],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Western Blvd & 48th Pl",
+				"description": "docks in service: 11",
+				"STATION_ID": "594"
+			},
+			"geometry": {
+				"coordinates": [-87.683392,41.805661],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wabash Ave & 87th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "595"
+			},
+			"geometry": {
+				"coordinates": [-87.622634,41.736646],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Benson Ave & Church St",
+				"description": "docks in service: 15",
+				"STATION_ID": "596"
+			},
+			"geometry": {
+				"coordinates": [-87.683485,42.048214],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Chicago Ave & Washington St",
+				"description": "docks in service: 15",
+				"STATION_ID": "597"
+			},
+			"geometry": {
+				"coordinates": [-87.679101,42.032562],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Elmwood Ave & Austin St",
+				"description": "docks in service: 15",
+				"STATION_ID": "598"
+			},
+			"geometry": {
+				"coordinates": [-87.684107,42.025784],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Valli Produce - Evanston Plaza",
+				"description": "docks in service: 15",
+				"STATION_ID": "599"
+			},
+			"geometry": {
+				"coordinates": [-87.699413,42.039742],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dodge Ave & Church St",
+				"description": "docks in service: 15",
+				"STATION_ID": "600"
+			},
+			"geometry": {
+				"coordinates": [-87.698224,42.048308],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central St Metra",
+				"description": "docks in service: 15",
+				"STATION_ID": "601"
+			},
+			"geometry": {
+				"coordinates": [-87.69873,42.063598],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Central St & Girard Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "602"
+			},
+			"geometry": {
+				"coordinates": [-87.686152,42.064313],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Chicago Ave & Sheridan Rd",
+				"description": "docks in service: 15",
+				"STATION_ID": "603"
+			},
+			"geometry": {
+				"coordinates": [-87.677821,42.050491],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Noyes St (NU)",
+				"description": "docks in service: 15",
+				"STATION_ID": "604"
+			},
+			"geometry": {
+				"coordinates": [-87.677432,42.058239],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "University Library (NU)",
+				"description": "docks in service: 15",
+				"STATION_ID": "605"
+			},
+			"geometry": {
+				"coordinates": [-87.673447,42.052939],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Keystone Ave & Fullerton Ave",
+				"description": "docks in service: 11",
+				"STATION_ID": "619"
+			},
+			"geometry": {
+				"coordinates": [-87.72785,41.92459],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Orleans St & Chestnut St (NEXT Apts)",
+				"description": "docks in service: 15",
+				"STATION_ID": "620"
+			},
+			"geometry": {
+				"coordinates": [-87.637536,41.898203],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Aberdeen St & Randolph St",
+				"description": "docks in service: 7",
+				"STATION_ID": "621"
+			},
+			"geometry": {
+				"coordinates": [-87.654264,41.884114],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "California Ave & Cortez St",
+				"description": "docks in service: 15",
+				"STATION_ID": "622"
+			},
+			"geometry": {
+				"coordinates": [-87.696704,41.900363],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Michigan Ave & 8th St",
+				"description": "docks in service: 43",
+				"STATION_ID": "623"
+			},
+			"geometry": {
+				"coordinates": [-87.623981,41.872773],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dearborn St & Van Buren St",
+				"description": "docks in service: 15",
+				"STATION_ID": "624"
+			},
+			"geometry": {
+				"coordinates": [-87.629155,41.876268],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Chicago Ave & Dempster St",
+				"description": "docks in service: 15",
+				"STATION_ID": "625"
+			},
+			"geometry": {
+				"coordinates": [-87.680687,42.041691],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Delano Ct & Roosevelt Rd",
+				"description": "docks in service: 19",
+				"STATION_ID": "626"
+			},
+			"geometry": {
+				"coordinates": [-87.63219,41.867491],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "LaSalle Dr & Huron St",
+				"description": "docks in service: 19",
+				"STATION_ID": "627"
+			},
+			"geometry": {
+				"coordinates": [-87.632326,41.894877],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Walsh Park",
+				"description": "docks in service: 23",
+				"STATION_ID": "628"
+			},
+			"geometry": {
+				"coordinates": [-87.667968,41.91461],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Kildare Ave & Montrose Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "630"
+			},
+			"geometry": {
+				"coordinates": [-87.73569,41.96108],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Malcolm X College",
+				"description": "docks in service: 19",
+				"STATION_ID": "631"
+			},
+			"geometry": {
+				"coordinates": [-87.673895,41.877618],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Fairbanks St & Superior St",
+				"description": "docks in service: 11",
+				"STATION_ID": "635"
+			},
+			"geometry": {
+				"coordinates": [-87.620104,41.895748],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Orleans St & Hubbard St",
+				"description": "docks in service: 11",
+				"STATION_ID": "636"
+			},
+			"geometry": {
+				"coordinates": [-87.636618,41.890028],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Clinton St & Jackson Blvd",
+				"description": "docks in service: 23",
+				"STATION_ID": "638"
+			},
+			"geometry": {
+				"coordinates": [-87.63983845710754,41.87811603010527],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lakefront Trail & Wilson Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "639"
+			},
+			"geometry": {
+				"coordinates": [-87.645361,41.965845],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Latrobe Ave & Chicago Ave",
+				"description": "docks in service: 7",
+				"STATION_ID": "642"
+			},
+			"geometry": {
+				"coordinates": [-87.756895,41.894745],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Archer (Damen) Ave & 37th St",
+				"description": "docks in service: 11",
+				"STATION_ID": "645"
+			},
+			"geometry": {
+				"coordinates": [-87.683144,41.826712],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Elizabeth St & 59th St",
+				"description": "docks in service: 7",
+				"STATION_ID": "647"
+			},
+			"geometry": {
+				"coordinates": [-87.655859,41.786691],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rhodes Ave & 71st St",
+				"description": "docks in service: 11",
+				"STATION_ID": "652"
+			},
+			"geometry": {
+				"coordinates": [-87.611726,41.766],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cornell Dr & Hayes Dr",
+				"description": "docks in service: 11",
+				"STATION_ID": "653"
+			},
+			"geometry": {
+				"coordinates": [-87.584846,41.780595],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Wood St & Augusta Blvd",
+				"description": "docks in service: 15",
+				"STATION_ID": "657"
+			},
+			"geometry": {
+				"coordinates": [-87.6722,41.899181],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Leavitt St & Chicago Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "659"
+			},
+			"geometry": {
+				"coordinates": [-87.682017,41.895501],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sheridan Rd & Columbia Ave",
+				"description": "docks in service: 15",
+				"STATION_ID": "660"
+			},
+			"geometry": {
+				"coordinates": [-87.661406,42.004583],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Evanston Civic Center",
+				"description": "docks in service: 15",
+				"STATION_ID": "661"
+			},
+			"geometry": {
+				"coordinates": [-87.686554,42.057044],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dodge Ave & Mulford St",
+				"description": "docks in service: 15",
+				"STATION_ID": "662"
+			},
+			"geometry": {
+				"coordinates": [-87.699595,42.023463],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincolnwood Dr & Central St",
+				"description": "docks in service: 15",
+				"STATION_ID": "663"
+			},
+			"geometry": {
+				"coordinates": [-87.715297,42.064854],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "South Chicago Ave & Elliot Ave",
+				"description": "docks in service: 7",
+				"STATION_ID": "665"
+			},
+			"geometry": {
+				"coordinates": [-87.580046,41.747363],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cherry Ave & Blackhawk St",
+				"description": "docks in service: 15",
+				"STATION_ID": "666"
+			},
+			"geometry": {
+				"coordinates": [-87.655618,41.907221],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Franklin St & Illinois St",
+				"description": "docks in service: 11",
+				"STATION_ID": "672"
+			},
+			"geometry": {
+				"coordinates": [-87.63547986745834,41.89102331025185],
+				"type": "Point"
+			}
+ 		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Lincoln Park Conservatory",
+				"description": "docks in service: 31",
+				"STATION_ID": "673"
+			},
+			"geometry": {
+				"coordinates": [-87.63582453131676,41.92393131136619],
+				"type": "Point"
+			}
+ 		}
+	] 
+}
