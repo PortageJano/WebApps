@@ -17,58 +17,56 @@ class Home extends React.Component{
           <br></br>
           <br></br>
           <br></br>
-          <p style = {{top: 100}}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
-            ut labore et dolore magna aliqua. Mattis pellentesque id nibh tortor id aliquet lectus. 
-            Lectus nulla at volutpat diam ut venenatis tellus. Mi ipsum faucibus vitae aliquet nec 
-            ullamcorper sit. Egestas sed tempus urna et pharetra pharetra. Mi bibendum neque egestas 
-            congue quisque egestas diam in arcu. Sit amet aliquam id diam maecenas ultricies mi eget 
-            mauris. Morbi enim nunc faucibus a pellentesque sit amet. Sollicitudin aliquam ultrices 
-            sagittis orci a scelerisque. Egestas pretium aenean pharetra magna ac placerat vestibulum 
-            lectus. A iaculis at erat pellentesque adipiscing commodo elit at.
-          </p>
-          <p>
-            Lacus sed viverra tellus in hac habitasse platea. Nunc vel risus commodo viverra maecenas 
-            accumsan lacus vel facilisis. Pharetra vel turpis nunc eget. Iaculis at erat pellentesque 
-            adipiscing commodo. Etiam non quam lacus suspendisse. Sit amet mauris commodo quis 
-            imperdiet massa. Dui nunc mattis enim ut. At ultrices mi tempus imperdiet nulla malesuada. 
-            Auctor augue mauris augue neque gravida. Auctor elit sed vulputate mi sit amet mauris 
-            commodo quis. Tincidunt id aliquet risus feugiat in. Odio facilisis mauris sit amet massa 
-            vitae tortor condimentum. Pulvinar mattis nunc sed blandit libero. Sit amet est placerat 
-            in egestas erat. Scelerisque fermentum dui faucibus in. Ac felis donec et odio 
-            pellentesque diam volutpat commodo sed. Facilisi nullam vehicula ipsum a. Adipiscing elit 
-            ut aliquam purus sit amet luctus venenatis. Id velit ut tortor pretium viverra suspendisse 
-            potenti nullam.
-          </p>
-          <p>
-            Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Sem integer vitae justo 
-            eget. Ullamcorper velit sed ullamcorper morbi tincidunt. Pulvinar neque laoreet suspendisse 
-            interdum consectetur libero id faucibus. Vestibulum rhoncus est pellentesque elit. 
-            Ullamcorper malesuada proin libero nunc. Et netus et malesuada fames ac. Consectetur a erat 
-            nam at lectus urna duis convallis. Tellus pellentesque eu tincidunt tortor aliquam. Pharetra 
-            pharetra massa massa ultricies mi quis hendrerit dolor. Suspendisse interdum consectetur 
-            libero id faucibus nisl tincidunt eget.
-          </p>
-          <p>
-            Augue mauris augue neque gravida in fermentum. In eu mi bibendum neque egestas. Egestas 
-            maecenas pharetra convallis posuere morbi leo urna. Quis risus sed vulputate odio ut enim. 
-            Ornare aenean euismod elementum nisi quis. Id porta nibh venenatis cras sed. Non diam 
-            phasellus vestibulum lorem sed risus ultricies tristique. Suspendisse interdum consectetur 
-            libero id faucibus nisl. Libero nunc consequat interdum varius sit amet mattis vulputate. 
-            Est sit amet facilisis magna etiam tempor. Quam elementum pulvinar etiam non. Velit 
-            scelerisque in dictum non consectetur a. Ut placerat orci nulla pellentesque. Mattis 
-            vulputate enim nulla aliquet porttitor lacus luctus accumsan.
-          </p>
-          <p>
-            Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Et pharetra pharetra massa massa 
-            ultricies mi quis hendrerit. Eu tincidunt tortor aliquam nulla facilisi cras fermentum
-            odio. At in tellus integer feugiat scelerisque. Sapien pellentesque habitant morbi 
-            tristique. Fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque. Massa 
-            massa ultricies mi quis hendrerit. Sed tempus urna et pharetra pharetra massa massa 
-            ultricies. Turpis cursus in hac habitasse platea. Quis hendrerit dolor magna eget est lorem 
-            ipsum. Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Morbi 
-            tristique senectus et netus.
-          </p>
+          <center>
+            <h2> What is Divvy Bike?</h2>
+              <p>
+                <br/>Divvy Bike is a Chicago and Evanstone bike sharing system. Divvy bike is a program made by the 
+                <br/>Chicago Department of Transportation or the CDOT.  The CDOT is the owner of the bikes in the city and 
+                <br/>is the owner of any transportation vehicle in chicago publicly run. The funds from the city came from grants for certain 
+                <br/>project that promote economic recovery, reduce traffic congestion and improve air quality. The CDOT Misson is to
+                <br/>create transportation networks safe for users and make transportation environmentally sustainable.
+                <br/>Divvy bike tries keeping all there bikes accesible with huge availability. They are litterly always avaible.
+                <br/>Divvy is available for use 24 hours/day, 7 days/week, 365 days/year, and riders have access to all bikes and stations across the city of Chicago and Evanston
+                <br/>Divvy bike also keeps there prices accesible for a single right up to 30 minutes it will cost you around 3 dollars.
+                <br/> For a whole day pass unlimited rides in the 24 hour period it will cost you 15$.
+                <br/> If you are going to be riding with Divvy Bike a lot it may be more optimal to go with the anual pass, $99/a year unlimited 45 minute rides.
+              </p> 
+            <h2> About our data </h2>
+              <p>
+                <br/> We got our data from the the City of Chicago API. 
+                <br/> The API to a lot of the data including divvy bike data can be found here https://data.cityofchicago.org.
+                <br/> This resource is good because it provides public information about buisnesses in Chicago.
+                <br/> This website has been around since 2012 when our previous Mayor Rahm Emmanuel signed an executive order to be able to keep alot of information avaible.
+                <br/> The executive order that he signed was called the Open Data Executive Order. 
+                <br/> This data is given to you in JSON format and there is no API key needed to get the data is fully free and fully accesible.
+                <br/> The API gave us A Lot of data to work with which is really interesting and you can make a lot of cool things with it. Some of the data you can see from
+                <br/> our graphs like gender, customer type, distance traveled, cordinates, station id , and bike id. If you want to see the 
+                <br/> visualization of this data I would head to our graphs tab to see some nice bar graphs and the map tab to see some nice map data.
+              </p>
+            <h2> About our Visualization </h2>
+              <h4> Graphs </h4>
+              <br/> One of the graphs we created is a gender graph. We are counting the amount of Females/Males that ride Divvy Bikes. 
+              <br/> There is also the case where they do not put a gender which goes to the unkown category.
+              <br/> The Gender Distance Graph. We thought this graph would be interesting to see the amount each gender rides the bikes. 
+              <br/> Seeing demographic statistic between distance traveled.
+              <br/> Our third graph is seeing the users using the divvy bikes. If they are just customers or if they are subscribers. We thought this would.
+              <br/> be interesting because it would show how many people are actually paying the annual payment.
+              <br/> The next graph we have is our Station ID graph. This graph is just showing which stations are the most popular. 
+              <br/> We thought this graph would be interesting to show which are the hot zones for the divvy bikes.
+              <br/> The last graph we have is the Bike ID graph. Even thought this graph might not have to much use since all the bikes are the same. 
+              <br/> It would be interesting to see which bikes are getting used just by chance. 
+              <h4> MAPS</h4>
+              <br/> We had a pretty interesting idea for our maps page. We are using a MAP APi to generate a map on our website. 
+              <br/> This map shows all the divvy bike station around in chicago. We are getting the long and lats from the 
+              <br/> Divvy Bike API data and  plotting the points. We are showing all the bikes if a user doesnt enter any input. If you 
+              <br/> enter a bike id in the input it will render all the points that the bike has traveled and link lines between them. We thought 
+              <br/> this would be interesting because we can see where 1 bike has traveled in the span of the day the data comes through. 
+              <br/> If you really wanted you can find out where the bike you took went after you dropped it off using our map input.
+          </center>
+          <br/>
+          <br/>
+          <br/>
+          <br/>
       
         </React.Fragment>
       );
