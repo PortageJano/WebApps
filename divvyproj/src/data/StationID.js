@@ -94,9 +94,9 @@ export default class SubGraph extends React.Component {
         p={2}
         position="absolute"
         top={200}
-        left="5%"
+        left="20%" 
         height={500}
-        width={700}
+        width={1200}
       >
         <Bar
           data={this.state}

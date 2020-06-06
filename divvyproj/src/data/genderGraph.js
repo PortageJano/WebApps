@@ -78,9 +78,9 @@ export default class GenderDistGraph extends React.Component {
         p={2}
         position="absolute"
         top={200} 
-        left="5%" 
-        height={300}
-        width={600}
+        left="25%" 
+        height={500}
+        width={900}
       >
         <Bar
           data={this.state}
