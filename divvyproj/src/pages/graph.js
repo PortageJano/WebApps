@@ -1,13 +1,6 @@
 import React, { useState } from 'react';
 import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 
-
-import GenderGraph from '../data/genderGraph.js';
-import SubmissionBox from '../components/submit.js';
-import GenderDistGraph from '../data/genderDistance.js';
-import SubGraph from '../data/subscribersGraph.js';
-import BikeID from '../data/bikeId.js';
-import Stations from '../data/StationID.js';
 import Tab from '../components/tabs'
 
 export default class Graph extends React.Component {
