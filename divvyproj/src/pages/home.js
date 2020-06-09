@@ -25,9 +25,9 @@ class Home extends React.Component{
                 is the owner of any transportation vehicle in chicago publicly run. The funds from the city came from grants for certain 
                 project that promote economic recovery, reduce traffic congestion and improve air quality. The CDOT Misson is to
                 create transportation networks safe for users and make transportation environmentally sustainable.
-                Divvy bike tries keeping all there bikes accesible with huge availability. They are litterly always avaible.
+                Divvy bike tries keeping all there bikes accesible with huge availability. They are literally always available.
                 Divvy is available for use 24 hours/day, 7 days/week, 365 days/year, and riders have access to all bikes and stations across the city of Chicago and Evanston
-                Divvy bike also keeps there prices accesible for a single right up to 30 minutes it will cost you around 3 dollars.
+                Divvy bike also keeps there prices accesible for a single ride up to 30 minutes it will cost you around 3 dollars.
                 For a whole day pass unlimited rides in the 24 hour period it will cost you 15$.
                 If you are going to be riding with Divvy Bike a lot it may be more optimal to go with the anual pass, $99/a year unlimited 45 minute rides.
               </p> 
@@ -64,10 +64,10 @@ class Home extends React.Component{
               <h3> MAPS</h3>
               <p>
                We had a pretty interesting idea for our maps page. We are using a MAP API to generate a map on our website. 
-               This map shows all the divvy bike station around in chicago. We are getting the long and lats from the 
-               Divvy Bike API data and plotting the points. We are showing all the stations if a user doesnt enter any input. If you 
-               enter a station id in the input it will render all the station and zoom in on it. We thought this would be interseting because
-               if you wanted to search a station you can see  the exact street crossing of that station. 
+               This map shows all the divvy bike station around and in chicago. We are getting the longitudes and latitudes from the 
+               Divvy Bike API data and plotting the points. We are showing all the stations if a user doesnt enter any input but, if you 
+               enter a station id in the input it will zoom in on that specific station. We thought this would be interesting because
+               if you wanted to search a station you can see the exact street crossing of that station.
                </p>
               </div>
           </center>

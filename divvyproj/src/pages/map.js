@@ -91,6 +91,7 @@ export default function Map() {
             }}
           >
             <div>
+              <small>{"station: " + hoverStation.properties.STATION_ID}</small>
               <h3>{hoverStation.properties.title}</h3>
               <p>{hoverStation.properties.description}</p>
             </div>
