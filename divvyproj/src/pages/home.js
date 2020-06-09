@@ -65,10 +65,9 @@ class Home extends React.Component{
               <p>
                We had a pretty interesting idea for our maps page. We are using a MAP API to generate a map on our website. 
                This map shows all the divvy bike station around in chicago. We are getting the long and lats from the 
-               Divvy Bike API data and  plotting the points. We are showing all the bikes if a user doesnt enter any input. If you 
-               enter a station id in the input it will render all the points that the bike has traveled and link lines between them. We thought 
-               this would be interesting because we can see where 1 bike has traveled in the span of the day the data comes through. 
-               If you really wanted you can find out where the bike you took went after you dropped it off using our map input.
+               Divvy Bike API data and plotting the points. We are showing all the stations if a user doesnt enter any input. If you 
+               enter a station id in the input it will render all the station and zoom in on it. We thought this would be interseting because
+               if you wanted to search a station you can see  the exact street crossing of that station. 
                </p>
               </div>
           </center>
