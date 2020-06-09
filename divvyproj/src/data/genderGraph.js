@@ -9,6 +9,9 @@ export default class GenderDistGraph extends React.Component {
     this.state = {
       valz: "",
       page: "",
+      maleTot: 0,
+      femaleTot: 0,
+      unknownTot: 0,
       datasets: [
         {
           backgroundColor: 'rgba(75,192,192,1)',
@@ -51,6 +54,9 @@ export default class GenderDistGraph extends React.Component {
         this.setState({
           responsive: true,
           labels: ['Male', 'Female', 'Unknown'],
+          maleTot: maleCount,
+          femaleTot: femaleCount,
+          unknownTot: otherCount,
           datasets: [
             {
               backgroundColor: ['blue', 'green', 'teal'],
@@ -81,7 +87,7 @@ export default class GenderDistGraph extends React.Component {
         left="25%" 
         height={500}
         width={900}
-        aria-label='Bikes rented by gender graph'
+        aria-label={"Bar chart. x axis, genders. y axis, bikes rented. gender male, " + this.state.maleTot + " bikes rented. gender female, " + this.state.femaleTot + " bikes rented. gender unknown, " + this.state.unknownTot + " bikes rented."}
       >
         <Bar
           data={this.state}

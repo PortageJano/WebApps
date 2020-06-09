@@ -106,7 +106,7 @@ export default function Map() {
                 setSelectedStation(station); // Keep this to display routes
               }}
             >
-              <img src="/bike.svg" alt="Station Marker Icon" aria-label='Station Marker Icon' />
+              <img src="/bike.svg" alt="Station Marker Icon"/>
             </button>
           </Marker>
         ))}

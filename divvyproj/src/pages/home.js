@@ -49,7 +49,8 @@ class Home extends React.Component{
               </div>
               <div style={{maxWidth: 700}}>
             <h2> About Our Visualization </h2>
-              <h4> Graphs </h4>
+              <h3> Graphs </h3>
+              <p>
                One of the graphs we created is a gender graph. We are counting the amount of Females/Males that ride Divvy Bikes. 
               There is also the case where they do not put a gender which goes to the unkown category.
                The Gender Distance Graph. We thought this graph would be interesting to see the amount each gender rides the bikes. 
@@ -60,13 +61,16 @@ class Home extends React.Component{
                We thought this graph would be interesting to show which are the hot zones for the divvy bikes.
                The last graph we have is the Bike ID graph. Even thought this graph might not have to much use since all the bikes are the same. 
                It would be interesting to see which bikes are getting used just by chance. 
-              <h4> MAPS</h4>
+               </p>
+              <h3> MAPS</h3>
+              <p>
                We had a pretty interesting idea for our maps page. We are using a MAP APi to generate a map on our website. 
                This map shows all the divvy bike station around in chicago. We are getting the long and lats from the 
                Divvy Bike API data and  plotting the points. We are showing all the bikes if a user doesnt enter any input. If you 
                enter a bike id in the input it will render all the points that the bike has traveled and link lines between them. We thought 
                this would be interesting because we can see where 1 bike has traveled in the span of the day the data comes through. 
                If you really wanted you can find out where the bike you took went after you dropped it off using our map input.
+               </p>
               </div>
           </center>
           <br/>
