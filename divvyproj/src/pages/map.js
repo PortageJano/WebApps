@@ -47,6 +47,7 @@ export default function Map() {
     });
   }
 
+  const [hoverStation, setHoverStation] = useState(null);
 
   // Escape key listener
   useEffect(() => {
@@ -98,9 +99,11 @@ export default function Map() {
           >
             <button 
               className="marker-btn" 
+              onMouseEnter={() => setHoverStation(station)}
+              onMouseLeave={() => setHoverStation(null)}
               onClick={(e) => {
                 e.preventDefault();
-                setSelectedStation(station);
+                setSelectedStation(station); // Keep this to display routes
               }}
             >
               <img src="/bike.svg" alt="Station Marker Icon" aria-label='Station Marker Icon' />
@@ -108,20 +111,25 @@ export default function Map() {
           </Marker>
         ))}
 
-        {selectedStation ? (
-          // <PolylineOverlay points={[[-87.649993,41.952833],[-87.654406,41.954245]]}/>
+        {hoverStation ? (
           <Popup 
-            latitude={selectedStation.geometry.coordinates[1]} 
-            longitude={selectedStation.geometry.coordinates[0]}
+            latitude={hoverStation.geometry.coordinates[1]} 
+            longitude={hoverStation.geometry.coordinates[0]}
             onClose={() => {
               setSelectedStation(null);
             }}
           >
             <div>
-              <h3>{selectedStation.properties.title}</h3>
-              <p>{selectedStation.properties.description}</p>
+              <h3>{hoverStation.properties.title}</h3>
+              <p>{hoverStation.properties.description}</p>
             </div>
           </Popup>
+        ) : null}
+
+        {selectedStation ? (
+          null
+          // <PolylineOverlay point={[selectedStation.geometry.coordinates[0],selectedStation.geometry.coordinates[1]]}/>
+          // <PolylineOverlay points={[[-87.649993,41.952833],[-87.654406,41.954245]]}/>
         ) : null}
       </ReactMapGL>
     </div>
