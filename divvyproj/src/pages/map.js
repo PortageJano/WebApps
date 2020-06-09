@@ -2,16 +2,6 @@ import React, { useState, useEffect } from 'react';
 import ReactMapGL, { Marker, Popup } from 'react-map-gl';
 import * as stationData from '../data/divvy-bike-stations.json';
 
-// import PolylineOverlay from '../components/polylineOverlay.js';
-// import Box from '@material-ui/core/Box';
-// import TextField from '@material-ui/core/TextField';
-// import Button from '@material-ui/core/Button';
-// import {
-//   BrowserRouter as Router,
-//   Redirect
-// } from "react-router-dom";
-
-
 export default function Map() { 
   const [selectedStation, setSelectedStation] = useState(null);
   var lo = new URLSearchParams(window.location.search);
@@ -27,9 +17,6 @@ export default function Map() {
   console.log(window.location.href.length);
   const [viewport, setViewport] = useState(st);
   const [newQ, setNewQ] = useState(true);
-  const [valz, setValz] = useState("");
-  const [srch, setSrch] = useState(false);
-  const [urlOr, setOrigin] = useState("");
 
    if(lo.has("stationId")&&newQ) {
      stationData.features.forEach(element => {
@@ -64,25 +51,9 @@ export default function Map() {
     }
   }, []);
 
-  // var a = "";
-  // if (srch) {
-  //   if (valz.length > 0) {
-  //     a = "/map" + "?stationId=" + encodeURIComponent(valz);
-  //     // console.log(urlOr);
-  //     // if((urlOr.localeCompare(""))===0){
-  //     //   console.log(urlOr);
-  //     //   setOrigin(window.location.href);
-  //     //   console.log(urlOr);
-  //     // }
-  //     //window.location.href=window.location.href+a;
-  //     //window.location.href=window.location.href.slice(26,window.location.href.length)+a;
-  //     return <Redirect to={a} push to={a}></Redirect>
-  //   }
-  //   setSrch(false);
-  //   return <Redirect to={'/map'} push to={'/map'}></Redirect>
-  //}
   return (
     <div>
+      <h1>.</h1>
       <ReactMapGL 
         {...viewport} 
         mapboxApiAccessToken='pk.eyJ1IjoiY2hyaXNsYmFycmVyYSIsImEiOiJja2FrMWQwZWwwazExMnlsNjczejhnZ3R2In0.YIL2WuTSwDKnelA0crDfsw'
@@ -128,8 +99,6 @@ export default function Map() {
 
         {selectedStation ? (
           null
-          // <PolylineOverlay point={[selectedStation.geometry.coordinates[0],selectedStation.geometry.coordinates[1]]}/>
-          // <PolylineOverlay points={[[-87.649993,41.952833],[-87.654406,41.954245]]}/>
         ) : null}
       </ReactMapGL>
     </div>

@@ -1,8 +1,5 @@
 import React from 'react';
 
-import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom'
-import Box from '@material-ui/core/Box';
-
 class Home extends React.Component{
     constructor(props) {
       super(props);
@@ -10,10 +7,12 @@ class Home extends React.Component{
         page : "",
       };
     }
+
+   
     render(){
-      
       return(
         <React.Fragment >
+          <h1>.</h1>
           <br></br>
           <br></br>
           <br></br>
@@ -64,10 +63,10 @@ class Home extends React.Component{
                </p>
               <h3> MAPS</h3>
               <p>
-               We had a pretty interesting idea for our maps page. We are using a MAP APi to generate a map on our website. 
+               We had a pretty interesting idea for our maps page. We are using a MAP API to generate a map on our website. 
                This map shows all the divvy bike station around in chicago. We are getting the long and lats from the 
                Divvy Bike API data and  plotting the points. We are showing all the bikes if a user doesnt enter any input. If you 
-               enter a bike id in the input it will render all the points that the bike has traveled and link lines between them. We thought 
+               enter a station id in the input it will render all the points that the bike has traveled and link lines between them. We thought 
                this would be interesting because we can see where 1 bike has traveled in the span of the day the data comes through. 
                If you really wanted you can find out where the bike you took went after you dropped it off using our map input.
                </p>
@@ -77,7 +76,6 @@ class Home extends React.Component{
           <br/>
           <br/>
           <br/>
-      
         </React.Fragment>
       );
     }

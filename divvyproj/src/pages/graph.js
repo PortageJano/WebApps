@@ -1,13 +1,6 @@
 import React, { useState } from 'react';
 import { Route, Link, BrowserRouter as Router, Switch, Redirect } from 'react-router-dom';
 
-
-// import GenderGraph from '../data/genderGraph.js';
-// import SubmissionBox from '../components/submit.js';
-// import GenderDistGraph from '../data/genderDistance.js';
-// import SubGraph from '../data/subscribersGraph.js';
-// import BikeID from '../data/bikeId.js';
-// import Stations from '../data/StationID.js';
 import Tab from '../components/tabs'
 import Box from '@material-ui/core/Box';
 import TextField from '@material-ui/core/TextField';
@@ -42,7 +35,6 @@ export default class Graph extends React.Component {
     if (this.state.page === 'm') {
       if (this.state.valz.length > 0) {
         a = "/map" + "?stationId=" + encodeURIComponent(this.state.valz);
-        //window.location.href=window.location.href+a;
         return <Redirect to={a} push to={a}></Redirect>
       }
       
@@ -50,6 +42,7 @@ export default class Graph extends React.Component {
     }
     return (
       <React.Fragment>
+        <h1>.</h1>
       <Tab></Tab>  
         <Box
           bgcolor="none"
