@@ -56,7 +56,7 @@ export default class SubGraph extends React.Component {
 
         this.setState({
           responsive: true,
-          labels: ['SubScriber', 'Customer', 'Unknown'],
+          labels: ['Subscriber', 'Customer', 'Unknown'],
           datasets: [
             {
               backgroundColor: ['blue', 'green', 'teal'],
@@ -87,6 +87,7 @@ export default class SubGraph extends React.Component {
         left="25%" 
         height={500}
         width={900}
+        aria-label='Number of Customers and subscribers graph'
       >
         <Bar
           data={this.state}

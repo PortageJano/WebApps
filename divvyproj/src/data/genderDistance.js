@@ -96,6 +96,7 @@ export default class GenderGraph extends React.Component {
         height={500}
         width={900}
         style={{zIndex: -400}}
+        aria-label='Distance by gender graph'
       >
         <Bar
           style={{zIndex: -400}}

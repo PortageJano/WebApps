@@ -63,12 +63,12 @@ export default function SimpleTabs(d1, d2, d3) {
   return (
     <div className={classes.root}>
       <AppBar position="absolute" style={{zIndex: 800, top: 60}}>
-        <Tabs value={value} onChange={handleChange} centered aria-label="tab between graphs">
-          <Tab label="Gender Graph" {...a11yProps(0)} />
-          <Tab label="Gender Distance Graph" {...a11yProps(1)} />
-          <Tab label="Subscribers Graph" {...a11yProps(2)} />
-          <Tab label="Station ID Graph" {...a11yProps(3)} />
-          <Tab label="Bike ID Graph" {...a11yProps(4)} />
+        <Tabs value={value} onChange={handleChange} centered aria-label="graph selection">
+          <Tab label="Gender Graph" {...a11yProps(0)} aria-label="Gender Graph" />
+          <Tab label="Gender Distance Graph" {...a11yProps(1)} aria-label="Gender Distance Graph"/>
+          <Tab label="Subscribers Graph" {...a11yProps(2)} aria-label="Subscribers Graph"/>
+          <Tab label="Station ID Graph" {...a11yProps(3)} aria-label="Station ID Graph"/>
+          <Tab label="Bike ID Graph" {...a11yProps(4)} aria-label="Bike ID Graph"/>
         </Tabs>
       </AppBar>
       <TabPanel value={value} index={0}>

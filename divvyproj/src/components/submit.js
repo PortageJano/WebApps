@@ -15,6 +15,7 @@ export default function SubmissionBox(props) {
         right="0%"
         height="100%"
         width={200}
+        aria-label='Station ID submit box'
       >
         <Box
           bgcolor="none"
@@ -25,6 +26,7 @@ export default function SubmissionBox(props) {
           right="0%"
           height={200}
           width={200}
+          aria-label='Station ID submit box'
         >
           Enter bike id to figure out where you went on the divvy bike
       <TextField
@@ -32,6 +34,7 @@ export default function SubmissionBox(props) {
             label="Enter ID"
             value={props.valz}
             onChange={e => this.setState({ valz: e.target.value })}
+            aria-label='Enter Station ID'
           />
           <Box
             bgcolor="grey"
@@ -42,6 +45,7 @@ export default function SubmissionBox(props) {
             right="14%"
             height={50}
             width={50}
+            aria-label='Station ID submit box'
           >
             <Button
               anchor="right"
@@ -49,6 +53,7 @@ export default function SubmissionBox(props) {
               variant="outlined"
               color="primary"
               onClick={() => this.clickHandler(props.valz)}
+              aria-label='Submit Button'
             >
               Submit
             </Button>

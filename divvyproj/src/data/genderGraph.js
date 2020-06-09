@@ -81,6 +81,7 @@ export default class GenderDistGraph extends React.Component {
         left="25%" 
         height={500}
         width={900}
+        aria-label='Bikes rented by gender graph'
       >
         <Bar
           data={this.state}

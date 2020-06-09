@@ -89,7 +89,7 @@ export default function NavBar() {
             edge="start" 
             className={classes.menuButton} 
             color="inherit" 
-            aria-label="menu"
+            aria-label="Navigation Menu"
             >
             <MenuIcon />
           </IconButton>
@@ -103,13 +103,13 @@ export default function NavBar() {
                   <ClickAwayListener onClickAway={handleClose}>
                     <MenuList style = {{zindex: 9999}} autoFocusItem={open} id="menu-list-grow" onKeyDown={handleListKeyDown}>
                       <Link to='/'>
-                        <MenuItem onClick={handleClose}>Home</MenuItem>
+                        <MenuItem onClick={handleClose} aria-label='Home'>Home</MenuItem>
                       </Link>
                       <Link to='/map'>
-                        <MenuItem onClick={handleClose}>Map</MenuItem>
+                        <MenuItem onClick={handleClose} aria-label='Map'>Map</MenuItem>
                       </Link>
                       <Link to='/graph'>
-                        <MenuItem onClick={handleClose}>Graphs</MenuItem>
+                        <MenuItem onClick={handleClose} aria-label='Graph'>Graphs</MenuItem>
                       </Link>
                     </MenuList>
                   </ClickAwayListener>

@@ -86,6 +86,7 @@ export default class SubGraph extends React.Component {
         left="20%" 
         height={500}
         width={1200}
+        aria-label='Number of riders by bike ID graph'
       >
         <Bar
           data={this.state}
